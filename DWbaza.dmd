@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DWbaza" id="1259D5F3-675F-9B88-09DF-8C16A77D43DF" version="3.5">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:35:51 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1259D5F3-675F-9B88-09DF-8C16A77D43DF</designId>
+</OSDM_Design>

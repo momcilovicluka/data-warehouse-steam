@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="197233C6-2EF8-17D0-5911-E77178CB0A82" name="Genre">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:17:36 UTC</createdTime>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id" id="46AA7A07-9CAE-D678-A81F-4D3536B9D53B">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:17:42 UTC</createdTime>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="name" id="2C9B8399-CA2F-9D13-DB78-BA6410DF9D15">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:17:50 UTC</createdTime>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="73D50561-2620-FAC5-56ED-F3449F3944A1" name="Genre PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:17:49 UTC</createdTime>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>46AA7A07-9CAE-D678-A81F-4D3536B9D53B</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

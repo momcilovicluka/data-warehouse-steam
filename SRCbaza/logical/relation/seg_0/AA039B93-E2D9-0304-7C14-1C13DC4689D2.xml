@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="CountruOfDeveloper" directorySegmentName="seg_0" id="AA039B93-E2D9-0304-7C14-1C13DC4689D2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 13:56:56 UTC</createdTime>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
+</engineerTo>
+<sourcePk>33030400-B30D-FEA9-8009-3D6928E2D15D</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>6587BF11-D2BD-C2CC-60F3-C9A04B2EC519</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2CBF0A43-3650-38D6-4E2A-63C0EE58A467</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

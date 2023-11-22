@@ -1,0 +1,135 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="FC7885EC-1BE5-F982-AF61-D6F023B8EFC8" name="User">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>379F1CD0-1FF2-C90C-97E9-2787C2EE35F5</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="635F7A23-F041-0A37-9069-16C7DE8879AC">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>1DD4160E-E0BA-6259-0935-302735DAE0A7</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="18E8B24A-62DE-CA7D-593B-EDECB8B25DA9">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>3A868CFC-CA1B-89E1-F6AD-1909E91F75CB</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="surname" id="B2C053AC-1F98-D0E3-9FF0-38DB879A4462">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>A80A1057-DFBB-F514-CFAE-BBE4EC9C86AA</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="email" id="4C825471-27DB-3D43-64B3-67C991E5744A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>A287F867-E597-76B9-088A-DADE53AF0BF9</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="username" id="66F4CF77-89E9-F527-0B12-6C16C7E436F7">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>1640F2E2-0747-6F30-B0A8-E5058AB96928</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="countryId" id="AE8FC0D8-C9CC-303D-EEAC-D0F70F7E2612">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>7C968170-46E7-8A24-2F2E-C9D424D8DD3A</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Country_id" id="12B66756-859F-B69C-8D9A-96C619B149A2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>51302640-2A2E-CE36-7058-F85DC3801601</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="449FB5E8-F2E4-B380-A3A2-2C300557FF07" referredColumn="27E38B8C-325F-6964-7AD7-E6ACDFFB49EB"/>
+</associations>
+</Column>
+<Column name="wallet" id="CB04A421-A4F2-F00C-E70B-30FE19797554">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>24F8D2FE-2C25-ECEA-941A-9890D11D89AB</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="ACFE0011-7BB6-7ABC-04AA-20B72F345F27" name="User_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>8B89F3B0-E099-C0F0-B208-0FA7FEC41A57</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="635F7A23-F041-0A37-9069-16C7DE8879AC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="97E74DB8-4402-6876-D84D-37120F129A49" name="User_Country_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:30:49 UTC</createdTime>
+<generatorID>88E2B4F2-D7D5-0B2B-6DC9-3091ACF7DBFC</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="12B66756-859F-B69C-8D9A-96C619B149A2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
