@@ -1,0 +1,61 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="89A71785-4409-1BA9-D771-D9B58F36537B" name="Country">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:36:21 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id" id="A772FA68-9F0B-1888-05D8-C9C814E507DA">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:36:21 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<importedID>4BFEAB5C-50E0-BB77-9F5C-6DFB2A08B6CF</importedID>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="name" id="33BE82F3-21FC-46AE-5DA3-75652F5AEE5E">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:36:21 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<importedID>E1DDB59F-BBEE-6D9B-369D-E71BC2A36D60</importedID>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8213AB3D-F71D-2D6D-EE4E-474DF55C5E52" name="Country PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:36:21 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>A772FA68-9F0B-1888-05D8-C9C814E507DA</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

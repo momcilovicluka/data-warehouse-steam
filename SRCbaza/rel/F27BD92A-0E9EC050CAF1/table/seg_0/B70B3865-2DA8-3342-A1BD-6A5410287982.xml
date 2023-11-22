@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="B70B3865-2DA8-3342-A1BD-6A5410287982" name="Purchase">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>35EB9EC5-3753-4427-92CF-139E547654FF</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="01619CE6-9296-7071-1B36-5AB5D0F19510">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>73A6F23A-7D02-A2B5-677B-00ECD494A308</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="isBundle" id="50958A2B-F9B2-BFF0-436C-2553FFBB5E45">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>2991DB95-08CD-A834-0154-96A0374C8FF1</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1 BYTE</dataTypeSize>
+<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dateOfPurchase" id="083AE458-AFD2-7277-3EE0-EB739A8D19F2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>D9D334F0-13A5-1C3C-2576-AB84C031DEC6</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalPrice" id="07311813-9FD9-05D9-A718-B9D6FDD8791A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>9C37F57C-9AE1-3169-3C58-132770F5A3E3</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="User_id" id="F4064C8A-82CD-59AC-845C-0532E4D6F6C7">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>31893DFC-26D9-84A2-0E2D-C356D36F537A</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A8165ADC-7C3B-188F-0C27-620848D148E0" referredColumn="1962A1BC-16BF-CD7B-F611-69ADFE648E0B"/>
+</associations>
+</Column>
+<Column name="purchasedWithWallet" id="E390E0A8-B079-5D34-6A8D-619086C5E825">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>4CC2D674-E795-F6E8-C2D9-58BFC9F6DD80</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1 BYTE</dataTypeSize>
+<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C212CFBC-FFE1-C578-B365-EDF9D4F4C2D6" name="Purchase_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>D82CA943-F757-333E-49EC-3F8A4451CB15</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="01619CE6-9296-7071-1B36-5AB5D0F19510"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FC2CD20C-0302-443C-A746-C0DA7FFBEA3A" name="Purchase_User_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:02:28 UTC</createdTime>
+<generatorID>94F5D526-7B0B-106F-BB3F-91CDF84B0193</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F4064C8A-82CD-59AC-845C-0532E4D6F6C7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

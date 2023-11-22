@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="31567E56-B870-525D-8115-CEF1D3BADC03" name="Genre">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>C6476D63-B10D-DD48-08E5-57465DC141AF</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="27F3CFF6-01AD-1D71-EE1B-63EE3F2B57C2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>845017C5-F7F1-9412-2301-C43CEF5391B4</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="E6605381-F3AC-7A1B-C398-8B828D1BB6A2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>F6F06871-34E3-60EE-B3F5-4A347EB6B451</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="BB76F0F9-83B7-B2C2-615C-E801A9FD9A22" name="Genre_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>11BB295A-747F-40C9-66AB-EF860513F6E8</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="27F3CFF6-01AD-1D71-EE1B-63EE3F2B57C2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

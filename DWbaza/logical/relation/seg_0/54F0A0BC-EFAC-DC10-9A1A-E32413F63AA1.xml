@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="GameOfPurchaseItem" directorySegmentName="seg_0" id="54F0A0BC-EFAC-DC10-9A1A-E32413F63AA1">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 14:36:21 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<sourcePk>A5092AFA-AC90-67B8-8A7F-9FB10E90005F</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>82EB6318-3A2E-BD45-6949-47A73E63337A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>44855629-714D-CF2F-FFD2-2A4F8E2B37FE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

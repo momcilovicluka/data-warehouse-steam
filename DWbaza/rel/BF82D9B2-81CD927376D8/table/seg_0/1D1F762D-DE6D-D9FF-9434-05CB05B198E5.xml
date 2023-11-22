@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1D1F762D-DE6D-D9FF-9434-05CB05B198E5" name="TagOfGame">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Game_id" id="6864D90A-F6A7-7FBB-3027-B29DE8203EF6">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="1E1216BB-50A3-4BDE-8CF7-C92C10F49C63" referredColumn="EE9AE008-9D71-F7E9-52C9-49CBEFE38642"/>
+</associations>
+</Column>
+<Column name="Tag_id" id="67C3F35C-EA18-2B4A-AD04-5E938F1A8017">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="103C0D8D-07DA-C5D7-38B7-C120595B2130" referredColumn="0BBAB85F-3A33-2514-703A-E56774906186"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="823FE3D3-B63A-6F66-5F0B-FD2C7491F010" name="TagOfGame_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6864D90A-F6A7-7FBB-3027-B29DE8203EF6"/>
+<colUsage columnID="67C3F35C-EA18-2B4A-AD04-5E938F1A8017"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8B69BCBD-E3B9-9799-5476-4A671083F5E6" name="TagOfGame_Game_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>E6C119AC-940F-0874-43AB-7DC0D15B1113</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6864D90A-F6A7-7FBB-3027-B29DE8203EF6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4F680751-20DE-C751-91C2-F389AF1A6CA4" name="TagOfGame_Tag_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-22 20:21:29 UTC</createdTime>
+<generatorID>E6C119AC-940F-0874-43AB-7DC0D15B1113</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="67C3F35C-EA18-2B4A-AD04-5E938F1A8017"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
