@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7C8413B8-3FAB-B16C-1071-49A985DBECE8" name="Country">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>89A71785-4409-1BA9-D771-D9B58F36537B</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="828E0C5D-BCBB-B76A-F064-F5AF8BF3AA1E">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>A772FA68-9F0B-1888-05D8-C9C814E507DA</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="01F1550B-86BF-3864-952C-B7312DA5C8C4">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>33BE82F3-21FC-46AE-5DA3-75652F5AEE5E</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5E6B2E28-51D5-A972-713A-4CDA83151430" name="Country_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>8213AB3D-F71D-2D6D-EE4E-474DF55C5E52</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="828E0C5D-BCBB-B76A-F064-F5AF8BF3AA1E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

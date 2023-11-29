@@ -9,6 +9,7 @@
 <sourcePk>B95D586D-347D-27DE-6DE2-085D2DFA6BA4</sourcePk>
 <targetPk>8213AB3D-F71D-2D6D-EE4E-474DF55C5E52</targetPk>
 <identifying>false</identifying>
+<nameOnSource>countryWithMostSales</nameOnSource>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>

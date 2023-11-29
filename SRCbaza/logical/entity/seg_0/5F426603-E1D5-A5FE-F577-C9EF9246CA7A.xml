@@ -120,6 +120,21 @@
 <dataTypeScale>2</dataTypeScale>
 <ownDataTypeParameters>,10,2</ownDataTypeParameters>
 </Attribute>
+<Attribute name="id3" id="4BEE6138-4528-9ACF-2E72-B97B8B653436">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:09:29 UTC</createdTime>
+<generatorID>EF69C20D-6FCD-C609-05B2-0A3ED1F0962B</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<engineerTo>
+<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>C3239EF7-CAF6-7688-A96B-950BEA551F86</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="356D2422-469F-1D13-12F9-19F8B7BE3C80" name="game PK">

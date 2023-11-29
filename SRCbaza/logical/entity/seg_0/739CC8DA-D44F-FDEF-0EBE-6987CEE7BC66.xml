@@ -51,20 +51,6 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="discountPercentage" id="D91DAF9F-A656-AD1F-B201-C7ABFCB132ED">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 14:23:56 UTC</createdTime>
-<ownerDesignName>SRCbaza</ownerDesignName>
-<engineerTo>
-<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT026</logicalDatatype>
-<dataTypePrecision>5</dataTypePrecision>
-<dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,5,2</ownDataTypeParameters>
-</Attribute>
 <Attribute name="id1" id="491D1A9F-946D-F926-B5EF-DA9EB55F0879">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 14:27:27 UTC</createdTime>

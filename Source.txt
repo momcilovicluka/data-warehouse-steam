@@ -1,2 +1,5 @@
-Game, Developer, Publisher, Genre, Tag: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
-User.username: https://www.kaggle.com/datasets/colinmorris/reddit-usernames
+Game, Developer, Publisher, Genre, Tag:
+https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+https://www.kaggle.com/datasets/mikekzan/steam-games-dlcs?select=steam.csv
+User.username:
+https://www.kaggle.com/datasets/colinmorris/reddit-usernames

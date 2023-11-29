@@ -1,0 +1,146 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DF82B14E-63AD-E391-5C89-91B362AEE459" name="GameStatistics">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>91FDEDEB-20C1-267C-0D38-A910615BC103</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="CD933E25-7179-F7ED-89F7-F3523EFA187A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>6CA37C1E-2A9A-2A5C-5F5A-01D0365A6372</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalSales" id="638F6B47-79B3-B91B-CC45-05139505A12E">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>E414DF66-C2F6-8EF2-CFCD-FA86FFB32B70</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalIncome" id="F4678DDF-C8D4-A8CA-6FD5-3FAB0BB1C4FC">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>C86AC51D-842F-C24C-9CE5-8F75F733526B</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>20</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,20,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="monthOfMostSales" id="B541E92D-72B1-B599-5779-ED37D853987A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>6FCB48C0-566B-0DAE-AA3C-9ABDA774D848</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Game_id" id="80549478-A657-5D27-9652-FCBAE12A22C2">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>EA5775D5-A6D7-6659-63A4-D0252E70FE66</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="8D7F7357-D96D-CCED-DB4A-2F078673C2B8" referredColumn="12EE3431-AF57-BCE8-53EE-EE6BABA156E4"/>
+</associations>
+</Column>
+<Column name="Country_id" id="36820D09-BDB0-DBF5-8149-E45CEE749206">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>1266B442-B1EF-1460-985E-BA0179A2A0C1</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9DBB720E-F9F5-DB1D-B63A-26473CA9F70F" referredColumn="828E0C5D-BCBB-B76A-F064-F5AF8BF3AA1E"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="188AF3AC-9018-0CD8-C881-180D938ECFDF" name="GameStatistics_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>B95D586D-347D-27DE-6DE2-085D2DFA6BA4</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CD933E25-7179-F7ED-89F7-F3523EFA187A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BB4898F3-F1DA-E2F7-A869-5E17EC9F0535" name="GameStatistics__IDX">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>71564AE2-999F-E955-7371-8E6CB92E67C5</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="80549478-A657-5D27-9652-FCBAE12A22C2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="28353371-94C0-D8A1-832E-9E2AEB06FD1B" name="GameStatistics__IDXv1">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>950EA8A6-4024-383A-7703-7B18BB757C9A</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="36820D09-BDB0-DBF5-8149-E45CEE749206"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="87E3EC3A-DFCA-4223-FC42-50334F9136D1" name="GameStatistics_Game_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>71564AE2-999F-E955-7371-8E6CB92E67C5</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="80549478-A657-5D27-9652-FCBAE12A22C2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AF75627B-BBA5-F3B8-BCB7-202657950874" name="GameStatistics_Country_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<generatorID>950EA8A6-4024-383A-7703-7B18BB757C9A</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="36820D09-BDB0-DBF5-8149-E45CEE749206"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
