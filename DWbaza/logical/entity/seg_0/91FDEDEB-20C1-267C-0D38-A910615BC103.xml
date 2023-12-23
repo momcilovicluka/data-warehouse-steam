@@ -53,18 +53,6 @@
 <dataTypeScale>2</dataTypeScale>
 <ownDataTypeParameters>,20,2</ownDataTypeParameters>
 </Attribute>
-<Attribute name="monthOfMostSales" id="6FCB48C0-566B-0DAE-AA3C-9ABDA774D848">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 19:48:41 UTC</createdTime>
-<ownerDesignName>DWbaza</ownerDesignName>
-<engineerTo>
-<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="id1" id="EA5775D5-A6D7-6659-63A4-D0252E70FE66">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 19:53:02 UTC</createdTime>
