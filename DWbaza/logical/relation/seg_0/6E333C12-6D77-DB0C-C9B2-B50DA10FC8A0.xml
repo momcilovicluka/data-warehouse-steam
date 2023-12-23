@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="DLC" directorySegmentName="seg_0" id="6E333C12-6D77-DB0C-C9B2-B50DA10FC8A0">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:19:12 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<targetPk>A5092AFA-AC90-67B8-8A7F-9FB10E90005F</targetPk>
+<identifying>false</identifying>
+<nameOnSource>dlc</nameOnSource>
+<nameOnTarget>dlcOfGame</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>82EB6318-3A2E-BD45-6949-47A73E63337A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>82EB6318-3A2E-BD45-6949-47A73E63337A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

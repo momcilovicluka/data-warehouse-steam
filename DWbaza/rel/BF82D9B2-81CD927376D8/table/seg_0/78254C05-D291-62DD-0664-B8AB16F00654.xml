@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="78254C05-D291-62DD-0664-B8AB16F00654" name="Time">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
+<generatorID>C4B3DCDC-DB96-73C7-1412-BF4E05892424</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="3A4FEEA2-D024-019C-562F-815C06D859C4">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
+<generatorID>878F54F6-CFF0-3C09-87DC-42419D6C663F</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="year" id="4C5F1955-C926-2715-7EE6-595F66747EA0">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
+<generatorID>6F34BE69-A670-3AB8-5C10-032779C5E886</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="month" id="E8D29EF6-7054-DC5A-EEF8-AA52EFDC1F34">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
+<generatorID>18D0EC1E-4DE4-67DC-1990-9095A58812E1</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="776AF15F-CDB0-A2B0-3024-7209203A8392" name="Time_PK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
+<generatorID>45CB139F-5489-2730-7A30-DF78A2F07329</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3A4FEEA2-D024-019C-562F-815C06D859C4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

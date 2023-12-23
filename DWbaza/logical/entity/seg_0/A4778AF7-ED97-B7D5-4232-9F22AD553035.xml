@@ -81,18 +81,6 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="monthOfMostSales" id="36ADD737-A3C7-6766-3728-87A67927D5DB">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:16:23 UTC</createdTime>
-<ownerDesignName>DWbaza</ownerDesignName>
-<engineerTo>
-<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="averageTotalPrice" id="E8DB0E6F-FF5B-DAE0-24E1-F0A1143AADCA">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-29 19:16:34 UTC</createdTime>
@@ -107,6 +95,20 @@
 <dataTypePrecision>10</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
 <ownDataTypeParameters>,10,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id2" id="BD6287B3-FD41-A9C5-93B5-396660390AB2">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:24:22 UTC</createdTime>
+<generatorID>D26B526F-A1E6-A4C6-E2FA-81D875CB1082</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<referedAttribute>878F54F6-CFF0-3C09-87DC-42419D6C663F</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">

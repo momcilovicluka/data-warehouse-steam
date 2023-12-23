@@ -93,6 +93,20 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="id3" id="AF0E3559-1C38-AC2F-3634-A9D09F9BE252">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:25:04 UTC</createdTime>
+<generatorID>0C97974A-4B6E-E776-0D01-46520D525B2C</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<engineerTo>
+<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
+</engineerTo>
+<referedAttribute>878F54F6-CFF0-3C09-87DC-42419D6C663F</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="B95D586D-347D-27DE-6DE2-085D2DFA6BA4" name="GameStatistics PK">

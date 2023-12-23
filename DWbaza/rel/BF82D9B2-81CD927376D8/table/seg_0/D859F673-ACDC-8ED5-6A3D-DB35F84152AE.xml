@@ -1,16 +1,16 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7EEF90A2-9B74-08F0-C477-F9DDE37B8F45" name="Genre">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D859F673-ACDC-8ED5-6A3D-DB35F84152AE" name="Genre">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>C6476D63-B10D-DD48-08E5-57465DC141AF</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="id" id="A742D9A0-E455-807F-E066-8332F74CF1E7">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="id" id="C5756AED-733F-E443-76B5-0F00944C448A">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>845017C5-F7F1-9412-2301-C43CEF5391B4</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -19,9 +19,9 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="name" id="7D298C40-F030-2EA8-C0C7-4EAE52C712BA">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="name" id="378757C7-E30B-1957-5A83-EEF3B2EEB081">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>F6F06871-34E3-60EE-B3F5-4A347EB6B451</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -33,16 +33,16 @@
 </Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
-<ind_PK_UK id="0917C65C-E7DC-952E-0B80-B3F314915950" name="Genre_PK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="E5B3DC89-45D4-573D-DFCF-979BF57F2854" name="Genre_PK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>11BB295A-747F-40C9-66AB-EF860513F6E8</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <pk>true</pk>
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="A742D9A0-E455-807F-E066-8332F74CF1E7"/>
+<colUsage columnID="C5756AED-733F-E443-76B5-0F00944C448A"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>

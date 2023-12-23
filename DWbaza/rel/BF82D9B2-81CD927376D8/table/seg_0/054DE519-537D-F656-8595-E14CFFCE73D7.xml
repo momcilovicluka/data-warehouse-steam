@@ -1,16 +1,16 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F5FA76D1-CBA8-2065-D70C-6679DE2499B7" name="Purchase">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="054DE519-537D-F656-8595-E14CFFCE73D7" name="Purchase">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>52730981-C0EE-9CFE-F9AF-B0B9EDB81760</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="id" id="9F04F138-641C-AD95-5086-0CDF24E9A5F3">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="id" id="E9F931A1-5149-2F67-4FA9-0359EEA9F3BC">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>F84A48AE-B940-0ED0-45C2-0DC13593B989</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -19,9 +19,9 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="isBundle" id="A43B36CD-C080-5AE9-A9EB-BB1101E473D0">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="isBundle" id="62C652A1-08CD-03C5-4637-82F172A616D4">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>2A88CF7F-3593-1F2A-E28B-C1F65FA3D64B</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -31,9 +31,9 @@
 <ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="dateOfPurchase" id="33CCFBC7-1465-8D0C-D2CC-02138793F6F2">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="dateOfPurchase" id="6E7A4C95-77C5-39FF-291A-ED6638EC953B">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>60106115-0420-9D4B-3B76-2731F662540B</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -42,9 +42,9 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="totalPrice" id="E6F150A8-8E19-D8F1-BC2D-663517FFF795">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="totalPrice" id="F30885B3-F2D5-F69D-105F-90850A647CB3">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>D59D8882-D210-FA57-C896-81651B6CEE0D</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -55,9 +55,9 @@
 <ownDataTypeParameters>,10,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="User_id" id="98A91B38-34BA-245D-77DE-B05AFB2FE012">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="User_id" id="0BF3BB20-97C1-7677-FC3F-139F4411DBAA">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>E8173BCD-D3CC-EE47-E0B3-A7663163A41E</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -67,12 +67,12 @@
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
-<colAssociation fkAssociation="3EDEF4D1-A897-CDA1-969D-7A60DB2523F9" referredColumn="C1E96F07-88DD-C111-039C-6800F6104455"/>
+<colAssociation fkAssociation="A4E73BFE-175D-F5FA-FE82-5837B2D372BC" referredColumn="445635B1-DD3E-2D89-39E3-D21AD9A296F3"/>
 </associations>
 </Column>
-<Column name="purchasedWithWallet" id="8ADCD2AA-89C6-A630-4ED2-DEE2E2211257">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="purchasedWithWallet" id="8495D5E6-B9E9-5171-89A0-70A6651D3D93">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>3D6BEB9F-7EAA-15FF-E4D2-6E1C79C11881</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
@@ -84,27 +84,27 @@
 </Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
-<ind_PK_UK id="CE53B766-901A-E51A-9B6D-EDCA73CA007D" name="Purchase_PK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="A0D87D76-2B04-3DB0-76B6-638496B72F34" name="Purchase_PK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>F8F6B65C-8468-D410-953B-F52A1446DCDF</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <pk>true</pk>
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="9F04F138-641C-AD95-5086-0CDF24E9A5F3"/>
+<colUsage columnID="E9F931A1-5149-2F67-4FA9-0359EEA9F3BC"/>
 </indexColumnUsage>
 </ind_PK_UK>
-<ind_PK_UK id="126A054B-98B1-6CE8-AB5B-D9015A6A2B40" name="Purchase_User_FK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="3BA02113-6033-9614-3E4C-429E3DC7B4E8" name="Purchase_User_FK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>3D21C8FA-BF5A-A45A-38E6-D4FF823119EB</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <indexState>Foreign Key</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="98A91B38-34BA-245D-77DE-B05AFB2FE012"/>
+<colUsage columnID="0BF3BB20-97C1-7677-FC3F-139F4411DBAA"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>

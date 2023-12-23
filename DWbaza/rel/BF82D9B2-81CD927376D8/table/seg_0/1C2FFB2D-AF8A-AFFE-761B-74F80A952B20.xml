@@ -1,15 +1,15 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="989B97CD-9CA9-6D37-E1E7-77C088C638A2" name="GenreOfGame">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1C2FFB2D-AF8A-AFFE-761B-74F80A952B20" name="GenreOfGame">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <ownerDesignName>DWbaza</ownerDesignName>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="Game_id" id="76F72AC2-6B0E-6649-7617-EADA36556185">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="Game_id" id="7C807550-0A41-562F-B40A-55FE74015137">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -18,12 +18,12 @@
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
-<colAssociation fkAssociation="2CE1D4CC-1DBF-089F-6A8F-F45EFAD97554" referredColumn="12EE3431-AF57-BCE8-53EE-EE6BABA156E4"/>
+<colAssociation fkAssociation="FD7D2F05-1BA4-9CA5-88D5-32BDCE902BB1" referredColumn="8569634F-4434-22F2-7CFB-39A06277B5D3"/>
 </associations>
 </Column>
-<Column name="Genre_id" id="91E635EF-5095-8A59-F060-B1B5A0B09A92">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<Column name="Genre_id" id="39DBB281-79E8-B065-4E2E-987ABC77359A">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <ownerDesignName>DWbaza</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -32,43 +32,43 @@
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
-<colAssociation fkAssociation="D663B617-96E6-684B-2650-B7108278DB27" referredColumn="A742D9A0-E455-807F-E066-8332F74CF1E7"/>
+<colAssociation fkAssociation="3883C8F8-497D-077D-77D4-A25C7AF9309A" referredColumn="C5756AED-733F-E443-76B5-0F00944C448A"/>
 </associations>
 </Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
-<ind_PK_UK id="0E9D17D1-4D78-6185-AB8E-6E6C465E447A" name="GenreOfGame_PK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="43DD3B0C-D404-738A-CBDB-9717E70C811C" name="GenreOfGame_PK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <ownerDesignName>DWbaza</ownerDesignName>
 <pk>true</pk>
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="76F72AC2-6B0E-6649-7617-EADA36556185"/>
-<colUsage columnID="91E635EF-5095-8A59-F060-B1B5A0B09A92"/>
+<colUsage columnID="7C807550-0A41-562F-B40A-55FE74015137"/>
+<colUsage columnID="39DBB281-79E8-B065-4E2E-987ABC77359A"/>
 </indexColumnUsage>
 </ind_PK_UK>
-<ind_PK_UK id="95AC1884-9533-8688-4CDF-9C457F4EE389" name="GenreOfGame_Game_FK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="C6123E60-DBF5-C3DC-EA74-BD98435D756F" name="GenreOfGame_Game_FK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>E27BAA8A-BE11-8A38-6A45-A982D32BCE58</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <indexState>Foreign Key</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="76F72AC2-6B0E-6649-7617-EADA36556185"/>
+<colUsage columnID="7C807550-0A41-562F-B40A-55FE74015137"/>
 </indexColumnUsage>
 </ind_PK_UK>
-<ind_PK_UK id="F0E66E95-3F8C-D3FA-C525-21C97F4C93AD" name="GenreOfGame_Genre_FK">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-29 19:24:25 UTC</createdTime>
+<ind_PK_UK id="ED7B4800-4FED-1F2D-ED59-79AE1AA4DA62" name="GenreOfGame_Genre_FK">
+<createdBy>luka</createdBy>
+<createdTime>2023-12-23 14:39:06 UTC</createdTime>
 <generatorID>E27BAA8A-BE11-8A38-6A45-A982D32BCE58</generatorID>
 <ownerDesignName>DWbaza</ownerDesignName>
 <indexState>Foreign Key</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="91E635EF-5095-8A59-F060-B1B5A0B09A92"/>
+<colUsage columnID="39DBB281-79E8-B065-4E2E-987ABC77359A"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>
