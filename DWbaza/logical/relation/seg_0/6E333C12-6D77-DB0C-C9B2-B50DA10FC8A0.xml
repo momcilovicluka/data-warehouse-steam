@@ -11,7 +11,7 @@
 <nameOnSource>dlc</nameOnSource>
 <nameOnTarget>dlcOfGame</nameOnTarget>
 <optionalSource>true</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>
 <sourceEntity>82EB6318-3A2E-BD45-6949-47A73E63337A</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>

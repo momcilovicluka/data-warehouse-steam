@@ -9,7 +9,7 @@
 <referredTableID>9FCBD5A0-CA73-0D1F-E54E-FAC67984DBA8</referredTableID>
 <keyObject>2498BB95-08BF-A754-83EE-7322CA0B8625</keyObject>
 <referredKeyID>2498BB95-08BF-A754-83EE-7322CA0B8625</referredKeyID>
-<mandatory>true</mandatory>
+<mandatory>false</mandatory>
 <refColNames>id</refColNames>
 <transferable>true</transferable>
 <rely>false</rely>

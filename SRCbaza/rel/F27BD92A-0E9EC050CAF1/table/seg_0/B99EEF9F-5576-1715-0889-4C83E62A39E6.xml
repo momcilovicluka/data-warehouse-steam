@@ -114,6 +114,7 @@
 <createdTime>2023-11-29 19:24:21 UTC</createdTime>
 <generatorID>4BEE6138-4528-9ACF-2E72-B97B8B653436</generatorID>
 <ownerDesignName>SRCbaza</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT011</logicalDatatype>
