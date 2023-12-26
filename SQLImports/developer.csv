@@ -1,0 +1,3693 @@
+id,name,countryId
+0,Valve,2
+1,Gearbox Software,6
+2,Mark Healey,6
+3,Tripwire Interactive,7
+4,Ritual Entertainment,10
+5,Introversion Software,2
+6,Sonalysts,9
+7,Malfador Machinations,6
+8,Strategy First,5
+9,Arkane Studios,4
+10,Reality Pump Studios,5
+11,id Software,6
+12,RavenSoft / id Software,8
+13,Xatrix Entertainment,2
+14,Rogue Entertainment,4
+15,Raven Software,10
+16,Outerlight Ltd.,4
+17,Frozenbyte,7
+18,CINEMAX,5
+19,Elephant Games,10
+20,Freegamer,1
+21,Black Element,6
+22,Troika Games,8
+23,Neversoft,3
+24,Infinity Ward,10
+25,Gray Matter Studios,2
+26,Frontier,9
+27,Eugen Systems,8
+28,Iocaine Studios,5
+29,Bohemia Interactive,6
+30,Egosoft,2
+31,Bugbear Entertainment,7
+32,Techland,1
+33,1C Entertainment,5
+34,Katauri Interactive,2
+35,Metamorf,3
+36,Kheops Studio,9
+37,Mindware Studios,9
+38,PopCap Games,9
+39,Retro64,3
+40,SpinTop Games,7
+41,Rebellion,7
+42,Elixir Studios,1
+43,GlyphX Games,9
+44,Terminal Reality,6
+45,Double Fine Productions,2
+46,Firaxis Games,1
+47,PopTop,5
+48,FireFly Studios,5
+49,Facepunch Studios,2
+50,Funkitron,6
+51,SimBin,9
+52,Naked Sky Entertainment,1
+53,Monte Cristo,2
+54,GSC Game World,9
+55,Pandemic Studios,5
+56,Relic Entertainment,9
+57,CREATIVE ASSEMBLY,9
+58,Monolith,3
+59,The Creative Assembly,8
+60,Unknown Worlds Entertainment,9
+61,LucasArts,6
+62,Planet Moon Studios,10
+63,Klei Entertainment,1
+64,Sick Puppies,4
+65,Deepred,8
+66,Muzzy Lane,4
+67,Artematica Entertainment,6
+68,Funcom,10
+69,Stunlock Studios,1
+70,Most Wanted Entertainment,9
+71,Mithis Games,9
+72,CAPCOM Co.,6
+73,R C Knight,2
+74,Pyro Studios,2
+75,Io-Interactive A/S,5
+76,Eidos Interactive,8
+77,Avalanche Studios,7
+78,IO Interactive A/S,5
+79,Ion Storm,2
+80,Crystal Dynamics,1
+81,BioWare,5
+82,Nadeo,2
+83,Pendulo Studios,4
+84,Cyanide Studios,2
+85,Big Fish Games,1
+86,Gaijin Entertainment,10
+87,MicroProse Software,10
+88,2K Boston,10
+89,Aspyr,8
+90,Best Way,8
+91,Sky Fallen,6
+92,The Farm 51,6
+93,IO Interactive,5
+94,Pivotal Games,7
+95,Eidos Studio Hungary,9
+96,Telltale,8
+97,Bizarre Creations,10
+98,CCP,9
+99,SimBin Studios AB,2
+100,2K Marin,3
+101,Irrational Games,8
+102,Silver Wish Games,5
+103,Gas Powered Games,2
+104,Kaos Studios,10
+105,Volition,6
+106,Cryptic Sea,6
+107,Spellbound,9
+108,Retroism,7
+109,Haggard Games,10
+110,InnoGlow,5
+111,Cryptic Studios,1
+112,Krome Studios,1
+113,ImagineEngline,10
+114,Incinerator Studios,3
+115,Artech Studios,2
+116,Treyarch,8
+117,Sierra,10
+118,Saber Interactive,5
+119,Wanako Games,10
+120,Radical Entertainment,10
+121,Trashmasters,9
+122,Electronic Paradise,5
+123,SPLine,2
+124,Studio4,6
+125,studio4,4
+126,Akella,3
+127,Eurocom,6
+128,Frogwares,1
+129,Meridian4,9
+130,Buka Entertainment,9
+131,Lesta Studio,3
+132,Frogames,2
+133,2dengine,1
+134,White Birds,9
+135,Triumph Studios,2
+136,Free Radical Design,1
+137,KDV Games,9
+138,Deep Red Limited,10
+139,Rockstar North,8
+140,Remedy Entertainment,7
+141,Rockstar New England,3
+142,Rockstar North / Toronto,4
+143,Momentum Digital Media Technologies,1
+144,Studio II,9
+145,Ascaron Entertainment ltd.,5
+146,Deck13,9
+147,Parallax Arts Studio,10
+148,Technetium Games,1
+149,Deck 13,2
+150,Mascot Entertainment,9
+151,Noviy Disk,6
+152,Infinite Interactive,3
+153,Gamebryo,3
+154,SCS Software,9
+155,Zemnott,10
+156,Gabriel Entertainment,10
+157,BigAnt Studios,2
+158,Merscom,8
+159,Radon Labs,8
+160,Virtual Playground,9
+161,Liquid Entertainment,1
+162,Blue Omega Entertainment,1
+163,Codemasters,9
+164,Dylan Fitterer,10
+165,Sanzaru Games,7
+166,Epic Games,6
+167,Ubisoft,1
+168,Crytek Studios,4
+169,Ubisoft Montreal,4
+170,Kudosoft,1
+171,Red Storm Entertainment,4
+172,Ubisoft Bulgaria,6
+173,Nival,4
+174,Ubisoft Romania,1
+175,Darkworks,6
+176,1C: Maddox Games,1
+177,Oxeye Game Studio,6
+178,Dejobaan Games,2
+179,Oddworld Inhabitants,2
+180,Slam,7
+181,MumboJumbo,7
+182,Last Day of Work,1
+183,Queasy Games,3
+184,Monolith Productions,7
+185,blurredVision,8
+186,Redlynx,8
+187,Redlynx Ltd,5
+188,Crackpot Entertainment,2
+189,Replay Studios,3
+190,Spark Unlimited,4
+191,BlackFoot Studios,10
+192,Tilted Mill Entertainment,8
+193,Crytek,10
+194,Maxis™,5
+195,DICE,4
+196,EA Redwood Shores,1
+197,EA Los Angeles,4
+198,Zombie Panic! Team,1
+199,Octoshark Studios,6
+200,Puny Human,10
+201,GameConnect,5
+202,Empires,10
+203,Hothead Games,7
+204,Futuremark,9
+205,Shorebound Studios,4
+206,Fakt Software,3
+207,4Head Studios,1
+208,Hidden Path Entertainment,6
+209,Inventive Dingo,4
+210,Broken Rules,5
+211,Brian Cronin,8
+212,Double Helix Games,8
+213,Dialogue Design,2
+214,Strawdog Studios Ltd,1
+215,Luc Bernard,5
+216,Spicy Horse Games,5
+217,Perpetual FX Creative,7
+218,Moonpod,3
+219,Sidhe,4
+220,CD PROJEKT RED,5
+221,"""Travellers Tales""",6
+222,Deadline Games,7
+223,Day 1 Studios,6
+224,TT Games,10
+225,Dark Castle Software,6
+226,Eipix,7
+227,Certain Affinity™,10
+228,Proper Games,1
+229,Capcom,9
+230,Ubisoft Reflections,9
+231,Ubisoft  Shanghaï,4
+232,2D BOY,5
+233,TaleWorlds Entertainment,4
+234,Frictional Games,9
+235,Paradox Development Studio,7
+236,ACE Team,3
+237,Bethesda Game Studios,1
+238,Bethesda Game Studios®,8
+239,Headfirst Productions,6
+240,Splash Damage,3
+241,Obsidian Entertainment,1
+242,inXile Entertainment,9
+243,Apus Software,6
+244,Team17 Digital Ltd,1
+245,Team17 Software Ltd.,7
+246,Red Chain Games Ltd.,7
+247,Square Enix,8
+248,Haemimont Games,5
+249,Realmforge Studios,9
+250,Vicious Cycle Software,5
+251,D3Publisher of America,3
+252,Soldak Entertainment,2
+253,Dovetail Games,5
+254,All Aboard,6
+255,Thomson Interactive,8
+256,KrossRails,10
+257,Dimensional Ink Games,1
+258,OVERKILL Software,9
+259,NeocoreGames,1
+260,Bit Blot,6
+261,NeoCoreGames,4
+262,NEOCORE GAMES,4
+263,N3V Games,4
+264,EA - Maxis,10
+265,Slightly Mad Studios,8
+266,Wolfire Games,4
+267,Mindstorm Studios,5
+268,Basilisk Games,1
+269,Playbrains,7
+270,Paradox Interactive,2
+271,Black Sea Studios Ltd,1
+272,1C:InoCo,8
+273,BattleGoat Studios,3
+274,Nitro Games,10
+275,Cyberlore,10
+276,Twisted Pixel Games,2
+277,Paleo Entertainment,10
+278,Lazy 8 Studios,5
+279,Number None,4
+280,Kloonigames,9
+281,Tale of Tales,7
+282,49 Games,4
+283,Mousechief,10
+284,Llamasoft LTD,10
+285,DnS Development,1
+286,KranX Productions,3
+287,Erik Svedäng,6
+288,Hemisphere Games,8
+289,ArenaNet®,8
+290,Elecorn,3
+291,Digital Extremes,2
+292,Telltale Games,9
+293,ISOTX,1
+294,HeR Interactive,10
+295,Thinking Studios,10
+296,TrueThought,6
+297,Black Jacket Studios,6
+298,Petroglyph,2
+299,Aspyr Studios,10
+300,NovaLogic,5
+301,Enlight Software Limited,8
+302,Sigma Team Inc.,10
+303,Brightside Games,5
+304,Ubisoft Montpellier,7
+305,PopTop Software,6
+306,SkyFallen Entertainment,2
+307,Revolution Software Ltd,8
+308,Synetic,5
+309,Ideas Pad,2
+310,Kokakiki,2
+311,Zaratustra Productions,5
+312,Cosmi Valusoft,9
+313,Bamtang,7
+314,DTP,2
+315,Gunnar Games,6
+316,Altar Games,4
+317,Centauri Production,9
+318,Sumo Digital,1
+319,D3T Limited,7
+320,SEGA,6
+321,Unicorn Games Studio,6
+322,SaintXi,3
+323,Wargaming.net,7
+324,City Interactive S.A.,10
+325,City Interactive,8
+326,Invent4 Entertainment,6
+327,Beautiful Game Studios,10
+328,Honeyslug,8
+329,Crystal Dynamics Inc.,3
+330,Rocksteady Studios,6
+331,GFI Russia,3
+332,Targem Games,3
+333,Teotl Studios,3
+334,Power of 2,3
+335,Frima,10
+336,Digital Eel,9
+337,Sakari Games,2
+338,Sandlot Games,2
+339,3000AD,7
+340,Ice-Pick Lodge,9
+341,Big Splash Games,3
+342,Aliasworlds Entertainment,4
+343,PlayFirst,10
+344,Wadjet Eye Games,7
+345,Sarbakan,10
+346,Red Rocket Games,9
+347,Absolutist Ltd.,9
+348,Size Five Games,10
+349,Yullaby,10
+350,Vectorpark,8
+351,Gamerizon,2
+352,iWin,3
+353,Hip Soft,10
+354,Alawar,8
+355,Awem Studio,2
+356,Spidermonk Entertainment,4
+357,Interplay Inc.,1
+358,Black Isle Studios,7
+359,14° East,3
+360,Shiny Entertainment,8
+361,BioWare Corporation,3
+362,Subsoap,2
+363,Two Tribes,2
+364,Sonic Boom Games,2
+365,Virtual Heroes,6
+366,SQUARE ENIX,5
+367,gamigo US Inc.,6
+368,Freeze Tag Inc.,7
+369,Piranha Bytes,1
+370,4HEAD Studios,6
+371,People Can Fly,4
+372,Phenomic,8
+373,Homegrown Games,5
+374,THQ Nordic,9
+375,Cauldron,1
+376,Rune Forge,3
+377,DiezelPower,1
+378,ZoopTEK,6
+379,Sabi Games,10
+380,Stormregion,7
+381,Animation Arts,7
+382,Quadriga Games,2
+383,Arcen Games,1
+384,Makivision Games,2
+385,Amanita Design,2
+386,Team Meat,9
+387,The Odd Gentlemen,1
+388,Illusion Softworks,1
+389,Croteam,4
+390,Konstantin Koshutin,5
+391,Nimbly Games,3
+392,Dream Forge Entertainment,1
+393,Runic Games,3
+394,VIS Interactive,6
+395,Oasis Games,1
+396,Independent Programmist Group,7
+397,Coreplay,5
+398,Positech Games,10
+399,Trinoteam,4
+400,Fatshark,9
+401,Dark Water Studios Ltd,5
+402,Crystal Empire Games,3
+403,BL-Logic,8
+404,Kerberos Productions Inc.,4
+405,Arrowhead Game Studios,2
+406,Kerberos Productions,5
+407,Blue Fang,10
+408,KTX Software,8
+409,New Star Games Ltd,8
+410,Cadenza Interactive,1
+411,Artery Games,10
+412,Mind Control Software,6
+413,Gaijin Entertainment Corporation,9
+414,Nemesys Games,10
+415,Airtight Games,1
+416,CAPCOM CO.,2
+417,Other Ocean Interactive,8
+418,Capcom Vancouver,3
+419,Ludosity,5
+420,SkyRiver Studios,2
+421,Elite Games Team,3
+422,X-Bow Software,3
+423,SoftLab-NSK,8
+424,Headup Games,1
+425,ClockStone Studios,6
+426,Silent Dreams,6
+427,Nucleosys,10
+428,Microids,9
+429,Octane Games,4
+430,Headup Games / Crenetic,7
+431,MC2,1
+432,Dedication Games,1
+433,Totem Games,2
+434,Dagger Games,3
+435,Icehole Games,1
+436,Darkling Room,7
+437,Muzzy Lane Software,6
+438,Ntronium Games,9
+439,Totem games,1
+440,Dust Devil Studios Inc.,1
+441,Gogii,8
+442,Gogiii,10
+443,Visceral Games,1
+444,Electronic Arts,9
+445,Criterion Games,5
+446,The Sims Studio,7
+447,Playdead,3
+448,Exkee,5
+449,Blackhole,3
+450,Limbic Entertainment GmhH,10
+451,Limbic Entertainment GmbH,5
+452,Blue Byte,8
+453,VStep,8
+454,Nicklas Nygren,3
+455,Vanguard Games,7
+456,Stainless Games Ltd,4
+457,Cold Beam Games,1
+458,Muse Games,3
+459,Beatnik Games,6
+460,Noumenon Games,10
+461,2K Czech,9
+462,,10
+463,YAGER,1
+464,doublesix,6
+465,Doublesix Games,4
+466,Vigil Games,1
+467,Press Play,9
+468,Big Fish Studios,2
+469,Blendo Games,10
+470,Over the Top Games,2
+471,Doctor Entertainment AB,4
+472,Gaming Minds Studios,8
+473,Mediatonic,7
+474,Coreplay GmbH,8
+475,Stickmen Studios,7
+476,Brawsome,1
+477,Binary Takeover,5
+478,Source Studio Ltd.,5
+479,4sdk,7
+480,YeaBoing,6
+481,Cipher Prime Studios,6
+482,Secret Exit Ltd.,8
+483,Capybara Games,1
+484,Firemint,6
+485,Zoë Mode,5
+486,Big Sandwich Games,5
+487,bitComposer Games,8
+488,Uber Entertainment,7
+489,Ronimo Games,10
+490,Cyan Worlds Inc,5
+491,Gaijin Games,2
+492,Lunar Giant,6
+493,Ino-Co,6
+494,Digitalmindsoft,7
+495,Red Dot Games,5
+496,Cateia Games,6
+497,TML-Studios,9
+498,Oovee® Game Studios,3
+499,Just Trains,2
+500,Aerosoft GmbH,10
+501,virtualRailroads,6
+502,Giants Software,10
+503,Hitbox Team,7
+504,React Games,5
+505,Streko Graphics,3
+506,Mind Over Matter Studios,8
+507,Eggtooth Team,4
+508,Trine Studios,4
+509,Trendy Entertainment,6
+510,Dmytry Lavrov,8
+511,800 North and Digital Ranch,3
+512,exosyphen studios,6
+513,I Sioux Game Productions B.V.,10
+514,Terry Cavanagh,9
+515,EasyGameStation,3
+516,Grendel Games,4
+517,Blind Mind Studios,1
+518,StarWraith 3D Games LLC,9
+519,"""Devils Details""",3
+520,Eyebrow Interactive,2
+521,Tomkorp Computer Solutions Inc.,4
+522,Clara Lehenaff,8
+523,inner seas,8
+524,Colossal Order Ltd.,6
+525,Pieces Interactive,3
+526,Martin Ivanov,5
+527,Ageod,4
+528,BlueGiant Interactive,9
+529,Red Redemption,3
+530,Ivy Games,7
+531,Joshua Neurnberger,8
+532,Relentless Software,10
+533,Digital Reality,10
+534,11 bit studios,6
+535,X1 Software,9
+536,Coffee Stain Studios,6
+537,Streum On Studio,2
+538,Bacon Wrapped Games,3
+539,Steel Monkeys,2
+540,Dark Energy Digital Ltd.,5
+541,"""Geoff Zag Keene""",1
+542,Extend Studio,10
+543,Copenhagen Game Collective,5
+544,WXP Games,10
+545,Black Lion Studios,7
+546,Zachtronics,2
+547,Actalogic,8
+548,Puppygames,5
+549,Stout Games,1
+550,Final Form Games,4
+551,Cockroach Inc.,3
+552,Messhof,3
+553,Alientrap,7
+554,Sparpweed,9
+555,Peter Brinson and Kurosh ValaNejad,4
+556,Games Farm,2
+557,Colibri Games,9
+558,Paul Fisch,4
+559,Kot in Action Creative Artel,9
+560,IllFonic,1
+561,Fire Hose Games,5
+562,Murudai,10
+563,TimeGate Studios,1
+564,Krystian Majewski,2
+565,Mode 7,1
+566,Signal Studios,2
+567,Flying Wild Hog,9
+568,Game Distillery s.r.o.,2
+569,Zeroscale,1
+570,Gaslamp Games,2
+571,Bedlam Games,9
+572,Killspace Entertainment,8
+573,Dead Mage,4
+574,Nicalis,10
+575,Grey Havens,6
+576,Mystic Box,3
+577,Michael Brough,8
+578,Big Huge Games,1
+579,Robot Entertainment,2
+580,Trapdoor Inc.,4
+581,Cobra Mobile,5
+582,Jason Rohrer,2
+583,Big Fat Alien,10
+584,Geoff Keighley,2
+585,DANKIE,1
+586,Daedalic Entertainment,6
+587,State of Play Games,4
+588,Manic Game Studios,10
+589,Ensemble Studios,10
+590,Re-Logic,5
+591,Secret Base,2
+592,Q-Games Ltd.,8
+593,Supergiant Games,1
+594,MinMax Games Ltd.,9
+595,Zeboyd Games,3
+596,Squid In A Box Ltd,9
+597,Little Green Men Games,6
+598,Days of Wonder,5
+599,Strange Loop Games,7
+600,The Indie Stone,9
+601,Endlessfluff Games,1
+602,Pixelante Game Studios,4
+603,Hazardous Software Inc.,10
+604,Digital Arrow,5
+605,PomPom,5
+606,PomPom Games,10
+607,Team Bondi,10
+608,Total Eclipse,7
+609,Total Eclipse P.C.,8
+610,Owlchemy Labs,4
+611,Creat Studios Inc,5
+612,Nimble Giant Entertainment,9
+613,NGD Studios,4
+614,"""Mommys Best Games""",4
+615,Swing Swing Submarine,5
+616,Spiderweb Software,1
+617,Pocketwatch Games,7
+618,Edmund McMillen,8
+619,Reloaded Productions,7
+620,Little Orbit,4
+621,D-Pad Studio,3
+622,Eclipse Games,6
+623,Spectral Games,8
+624,Olde Sküül,6
+625,Wild Shadow Studios,4
+626,1C-Avalon,4
+627,Zeal Game Studio,5
+628,Unigine Corp.,10
+629,Unigine LLC.,4
+630,Bit Planet Games,10
+631,Iridium Studios,9
+632,Dark Artz Entertainment,7
+633,Desert Owl Games LLC,7
+634,Darkpaw Games,1
+635,Ironclad Games,1
+636,Vlambeer,3
+637,b-Alive,5
+638,Team 6 Studios,2
+639,Boss Baddie,1
+640,MachineGames,8
+641,Cyanide Montreal,9
+642,United Front Games,5
+643,Stardock Entertainment,7
+644,BUGBEAR,6
+645,TikGames,1
+646,RC Knight,2
+647,Longbow Games,6
+648,Hassey Enterprises,6
+649,Studio X Labs,9
+650,U.S. Army,5
+651,1C-SoftClub,8
+652,Revultive Games,8
+653,Lizsoft,10
+654,Bootsnake Games,6
+655,Ino-Co Plus,3
+656,The Chinese Room,1
+657,ASTRO PORT,3
+658,Lionhead Studios,2
+659,Capybara,4
+660,Rockstar Studios,2
+661,Eden Industries,9
+662,Retro Affect,7
+663,Ty Taylor and Mario Castañeda,5
+664,The Behemoth,9
+665,RichMakeGame,1
+666,Rocket Bear Games,4
+667,Cyanide Studio,1
+668,Dancing Dots,9
+669,Vblank Entertainment,10
+670,Biart,2
+671,Arkedo,3
+672,Brandon Brizzi,8
+673,Shadow Planet Productions,3
+674,Black Pants Studio,10
+675,Blit Software,1
+676,Ubisoft - San Francisco,3
+677,Ubisoft – San Francisco,9
+678,Suspicious Developments,6
+679,ACQUIRE Corp.,2
+680,System Prisma,9
+681,DrinkBox Studios,10
+682,Deep Silver Volition,9
+683,Freebird Games,8
+684,Standing Stone Games,9
+685,Carbon Games,2
+686,Reality Pump,8
+687,Med-Art,9
+688,Enigma SP,9
+689,Digital Reality Software & Playbox,10
+690,BlinkWorks Media,10
+691,Blinkworks Media,7
+692,DoubleDutch Games,4
+693,Tindalos Interactive,2
+694,Almost Human Games,3
+695,exDream,3
+696,CodeBrush Games,4
+697,3 Sprockets,8
+698,Nihon Falcom,2
+699,Flat Software,2
+700,Tennen-sozai,7
+701,Tribute Games Inc.,2
+702,David Williamson,10
+703,UBIart Montpellier,8
+704,Joakim Sandberg,5
+705,increpare games,7
+706,Misfits Attic,4
+707,Big Robot Ltd,2
+708,ExDream GmbH,6
+709,Empty Clip Studios,7
+710,Trickstar Games,3
+711,Southend,1
+712,AMPLITUDE Studios,3
+713,MeshTools,8
+714,Reppo,3
+715,Digital Train Model,3
+716,G-TraX,4
+717,Victory Works,10
+718,Shovsoft,8
+719,Finn Morgan,3
+720,Cyanide Studios ,1
+721,WB Games Montreal,5
+722,Slant Six Games,7
+723,Capcom U.S.A.,8
+724,Curve Studios,1
+725,Waterlily Games,3
+726,Love Conquers All Games,8
+727,Born Ready Games Ltd.,7
+728,Pantera Entertainment,3
+729,Sledgehammer Games,3
+730,Data Realms,4
+731,Subatomic Studios LLC,5
+732,Wizarbox,2
+733,Burut CT,4
+734,Jasper Byrne,7
+735,Jet Set Games,10
+736,Spry Fox LLC,8
+737,Spaces of Play UG,7
+738,Brain Candy,2
+739,Human Head Studios,3
+740,Thekla,2
+741,Creative Assembly,7
+742,Talawa Games,7
+743,Spooky Squid Games Inc.,3
+744,Hanako Games,2
+745,Kyle Pulver,5
+746,Tequila Works,7
+747,Tequila Works SL,8
+748,FromSoftware,5
+749,Smudged Cat Games Ltd,3
+750,Sector3 Studios,6
+751,Yeti Trunk,4
+752,Looking Glass Studios,7
+753,Black Market Games,4
+754,Chucklefish,6
+755,Illwinter Game Design,4
+756,Fishlabs Entertainment GmbH,5
+757,Qooc Software,10
+758,XII Games,6
+759,Star Gem Inc.,6
+760,Turtle Cream,8
+761,VALOFE,8
+762,Ubisoft Paris,9
+763,Subset Games,5
+764,Crankshaft Games,10
+765,Bluehole,6
+766,New Star Games,5
+767,Overhaul Games,3
+768,BitSits Games,8
+769,Engient,3
+770,IPACS,7
+771,Larian Studios,5
+772,Candygun Games,10
+773,SuperVillain Studios,7
+774,Edelweiss,7
+775,773,6
+776,SNK Games,5
+777,Opus,6
+778,Aleksey Abramenko,3
+779,Ankama Studio,2
+780,KING Art,8
+781,Acquire,3
+782,Alkemi,9
+783,Lukewarm Media,4
+784,Ratloop Asia,10
+785,stealth.gg,9
+786,Noumena Studios,7
+787,BancyCo,10
+788,Okugi Studio,7
+789,ASK Homework,1
+790,Naddic Games,1
+791,I-deal Games,10
+792,Gaming Minds,5
+793,Kukouri,1
+794,Camel101 LLC,4
+795,Nexon,9
+796,Big Ant Studios,8
+797,Rubicon Development,7
+798,Memetic Games,8
+799,Interceptor Entertainment,5
+800,Dreampainters,2
+801,CI Games,2
+802,2x2 Games,7
+803,Rogue Planet Games,8
+804,Daybreak Game Company,8
+805,Level Up Labs,6
+806,OVERKILL - a Starbreeze Studio.,7
+807,Shiver Games,3
+808,5th Cell Media,6
+809,Might and Delight,3
+810,Rovio Entertainment Ltd,8
+811,Keen Software House,9
+812,Dennaton Games,4
+813,Retro Affect & WiL Whitlark,1
+814,Stainless Games,10
+815,Torn Banner Studios,4
+816,Ed Key and David Kanaga,3
+817,Transhuman Design,7
+818,Alexander Bruce,10
+819,Crate Entertainment,10
+820,SkyGoblin,7
+821,Cloud 9 Studio,2
+822,Squad,2
+823,Ninja Theory,6
+824,Serious Brew,6
+825,Zero Sum Games,7
+826,Bithell Games,8
+827,Exor Studios,4
+828,EXOR Studios,7
+829,Sos Sosowski,5
+830,Ben Prunty Music,8
+831,Xavi Canal,9
+832,Rudolf Kremers & Alex May,4
+833,Tomorrow Corporation,6
+834,Skybox Labs,1
+835,Galactic Cafe,5
+836,Neko Entertainment,1
+837,Denis Galanin (mif2000),10
+838,Red Fly Studio,6
+839,SNK CORPORATION,2
+840,Smokebox,5
+841,Digital Traction,3
+842,Dovetail Games - Trains,6
+843,Milepost Simulations,4
+844,Armstrong Powerhouse,6
+845,Influenzo,10
+846,Johansteam,8
+847,24 Caret Games,4
+848,Abbey Games,1
+849,The Binary Mill,5
+850,New World Interactive,2
+851,CSR-Studios,7
+852,Dambuster Studios,2
+853,Black Forest Games,2
+854,Zeptolab UK Limited,4
+855,BlackMark Studio,10
+856,Avatar Creations,4
+857, Games Inc,8
+858,Running With Scissors,3
+859,ioneo,8
+860,IonFx,9
+861,LudoCraft Ltd.,1
+862,Team Psykskallar,5
+863,Ankama Games,8
+864,Eagle Dynamics SA,3
+865,Goldhawk Interactive,10
+866,Blackbird Interactive,6
+867,No More Room in Hell Team,5
+868,Games Foundry,9
+869,Compulsion Games,3
+870,Young Horses,2
+871,Robotronic Games,6
+872,Polytron Corporation,10
+873,Megadev,6
+874,Core Design,3
+875,Starbreeze Studios AB,7
+876,General Arcade,3
+877,Sven Co-op team,5
+878,QCF Design,8
+879,Fredaikis AB,8
+880,Radial Games Corp,9
+881,Milestone S.r.l.,6
+882,Wormwood Studios,2
+883,Kalypso Media Digital,4
+884,Minority Media Inc.,2
+885,Badland Studio,6
+886,Reverie World Studios,2
+887,Tiger Style,8
+888,Artifice Studio,1
+889,Digital Leisure Inc.,3
+890,Aventurine SA,6
+891,Old School Games,1
+892,Tragnarion Studios,4
+893,EightyEightGames,9
+894,SEGA Studios Australia,10
+895,Sauropod Studio,7
+896,TLM Partners,9
+897,Beamdog,9
+898,DONTNOD Entertainment,7
+899,Bugbear,1
+900,Activision,1
+901,17-BIT,4
+902,Iron Galaxy Studios,6
+903,Cube Roots,4
+904,HyperSloth,9
+905,Celianna,9
+906,PVGames,9
+907,Lunarea,4
+908,Gotcha Gotcha Games,7
+909,Degica,6
+910,Joel Steudler,1
+911,Virtuos,7
+912,FarmerGnome,7
+913,Hello Games,10
+914,Going Loud Studios,7
+915,Iron Tower Studio,7
+916,Colin Northway with art by Thomas Shahan,7
+917,Brightrock Games,8
+918,Senscape,1
+919,Metanet Software Inc.,4
+920,Giant Army,7
+921,Spicy Horse,5
+922,Geniaware Srl,2
+923,NIGORO,7
+924,Internal Games,8
+925,Zombie Studios,9
+926,Theresa Duringer,5
+927,droqen,6
+928,Eko Software,7
+929,Threaks,7
+930,Focus Entertainment,2
+931,Olli Harjola,1
+932,Cardboard Computer,5
+933,Santa Ragione,1
+934,Lucky Frame,4
+935,Behold Studios,9
+936,nFusion Interactive,9
+937,Snowbird Games,8
+938,Fullbright,6
+939,Spiders,10
+940,22cans,8
+941,Halycon Media GmbH & Co. KG,6
+942,Kuno Interactive,6
+943,Mighty Rocket Studio,4
+944,Locked Door Puzzle,9
+945,Climax Studios,10
+946,Double Eleven,5
+947,Shiro Games,5
+948,Eric Chahi,2
+949,Refract,9
+950,Bossa Studios,9
+951,The Men Who Wear Many Hats,1
+952,Lo-Fi Games,10
+953,@unepic_fran,4
+954,MercurySteam,4
+955,Crocodile Entertainment,1
+956,Demiurge Studios,4
+957,Test3 Projects,4
+958,XYLA Entertainment,6
+959,Toxic Games,10
+960,Harebrained Schemes,9
+961,CyberConnect2 Co. Ltd.,5
+962,Melos Han-Tani,2
+963,The Story Mechanics,1
+964,Point Five Projects,3
+965,PlatinumGames,5
+966,Laboratory Systems,8
+967,Ubisoft Toronto,7
+968,Alexey Bokulev,8
+969,Ludochip,6
+970,I-Illusions,2
+971,55 Revolver,8
+972,Humble Hearts LLC,10
+973,L3O Interactive,10
+974,March Entertainment,1
+975,Zero Point Software,7
+976,Mine Loader Software Co.,7
+977,Brain Slap Studio,10
+978,Serellan LLC,10
+979,KOG,1
+980,Logic Artists,10
+981,United Independent Entertainment,9
+982,WayForward,8
+983,FreakZone Games,2
+984,Red Thread Games,7
+985,Pathea Games,6
+986,Idea Factory,1
+987,Stoic,2
+988,Eidos Montreal,7
+989,Apogee Software,9
+990,3D Realms,7
+991,Nightdive Studios,6
+992,Handyman Studios,8
+993,FarSight Studios,1
+994,Robot Loves Kitty,7
+995,Red Barrels,7
+996,Monochrome,1
+997,Andrew Morrish,10
+998,Team2Bit,8
+999,Games Distillery s.r.o.,8
+1000,Grinding Gear Games,4
+1001,Lucas Pope,10
+1002,Crackshell,6
+1003,Beau Blyth,4
+1004,Eidos-Montréal,6
+1005,Mossmouth,4
+1006,Gravity,9
+1007,SkyBox Labs,7
+1008,Ian Campbell,1
+1009,Greenheart Games 💚,10
+1010,DoubleBear Productions,5
+1011,Ghostlight,9
+1012,Panzar Studio,2
+1013,Origo Games,5
+1014,Bennett Foddy,2
+1015,Conifer Games,4
+1016,Game Dev Castle,10
+1017,Zen Studios,4
+1018,Undead Labs,8
+1019,Ivory Tower in collaboration with Ubisoft Reflections,7
+1020,Cellar Door Games,4
+1021,Exato Games Studio,8
+1022,TimeSymmetry,3
+1023,Abstraction Games,8
+1024,NetherRealm Studios,10
+1025,Masangsoft,1
+1026,Endnight Games Ltd,5
+1027,Phoenix Online Studios,8
+1028,Carlsen Games,9
+1029,Indomitus Games,7
+1030,M2H,8
+1031,Shining Rock Software LLC,9
+1032,Quantic Dream,9
+1033,My Little Planet Ltd,8
+1034,Mucky Foot Productions Ltd,2
+1035,Untame,7
+1036,Phosfiend Systems,2
+1037,Watchmaker,10
+1038,Tate Multimedia,9
+1039,Gamepires,2
+1040,777 Studios,7
+1041,Kunos Simulazioni,7
+1042,Dead Shark Triplepunch,8
+1043,Mad Orange,9
+1044,Iron Galaxy,6
+1045,Team Colorblind,10
+1046,Schine GmbH,9
+1047,Michael Todd Games,6
+1048,Lucky Pause,5
+1049,Poppermost Productions,5
+1050,Schulenburg Software,3
+1051,Orthogonal Games,3
+1052,Hidden Variable Studios,7
+1053,Junction Point,9
+1054,Cyberdreams,9
+1055,Sir-Tech,9
+1056,Sir-Tech Canada,1
+1057,RedLynx,8
+1058,Matt Cohen,8
+1059,Greg Lobanov,9
+1060,Ironhide Game Studio,6
+1061,Modern Dream,2
+1062,Ndemic Creations,7
+1063,Moonshark,10
+1064,ShadowShifters,6
+1065,Aterdux Entertainment,5
+1066,Chainsawesome Games,4
+1067,Vex Studios,8
+1068,WildTangent,1
+1069,Commotion Games Pty Ltd,4
+1070,RuneStorm,9
+1071,Arkavi Studios,9
+1072,Impromptu Games,7
+1073,Nomad Games,5
+1074,Vertigo Gaming Inc.,5
+1075,Brace Yourself Games,10
+1076,Sixense,6
+1077,Studio Bean,8
+1078,Crazy Viking Studios,6
+1079,Hashbang Games,8
+1080,Slitherine Ltd.,7
+1081,Renegade Kid,3
+1082,Rising Star Games,5
+1083,The Tiniest Shark,9
+1084,Keen Games,7
+1085,"""Nifflas Games""",10
+1086,Songquito UG,4
+1087,Filament Classic,8
+1088,GalaxyTrail,1
+1089,Pixeljam,1
+1090,North of Earth,5
+1091,Chronic Logic,10
+1092,Dekovir Entertainment,10
+1093,Three Gates,3
+1094,Firedance Games,6
+1095,Saibot Studios,9
+1096,Biart Company LLC,8
+1097,Team Reptile,5
+1098,Nabi Studios,5
+1099,KillHouse Games,4
+1100,Flyleap Studios Pty. Ltd.,7
+1101,Hitcents,8
+1102,Forever Entertainment S. A.,1
+1103,Dischan Media,8
+1104,Hopoo Games,6
+1105,Blue Bottle Games,7
+1106,Nekki GmbH,7
+1107,CreativeForge Games,8
+1108,Petit Depotto,5
+1109,Screwfly Studios,6
+1110,Silk Games,10
+1111,Rain Games,9
+1112,Evolutionary Games,10
+1113,Chad Cuddigan,8
+1114,Zootfly,3
+1115,Sony Online Entertainment,2
+1116,Dark Vale Games,10
+1117,Thalzon,5
+1118,ARTDINK,7
+1119,EZDesigner,5
+1120,BetaDwarf,7
+1121,Geeta Games,6
+1122,Infinite Monkeys Entertainment Ltd.,6
+1123,Nanmo (Takayuki Yanagihara) @ FullPowerSideAttack.com,10
+1124,Witch Beam,9
+1125,Necrophone Games,6
+1126,Eric Hartman,3
+1127,Archive Entertainment,8
+1128,The Amiable,10
+1129,ClockStone,9
+1130,sparsevector,1
+1131,Stygian Software,4
+1132,Onipunks Studio Inc.,3
+1133,Digerati Distribution,4
+1134,Krillbite Studio,10
+1135,Escape Hatch Entertainment,8
+1136,Yacht Club Games,7
+1137,TREND,10
+1138,Loiste Interactive,1
+1139,9heads Game Studios,8
+1140,BlueLine Games,6
+1141,Tuque Games,1
+1142,GrisGris,7
+1143,Nocturnal works,10
+1144,MagicalTimeBean,4
+1145,Red Wasp Design Ltd,2
+1146,InterWave Studios,2
+1147,Studio Fizbin,1
+1148,Kiz Studios,2
+1149,Extremely OK Games,9
+1150,International Games System,8
+1151,The Fun Pimps,2
+1152,Disastercake,6
+1153,Grip Games,10
+1154,Ragtag Studio,8
+1155,Bitmap Brothers,2
+1156,Zoink Games,9
+1157,Wales Interactive,3
+1158,OVERDRIVE,6
+1159,Vertigo Games,6
+1160,Firebrand Games,6
+1161,Cornered Rat Software,4
+1162,JoyMasher,3
+1163,GameCask,7
+1164,8888888 LABS,5
+1165,Candescent Games,3
+1166,Asteroid Base,9
+1167,Victor Solodilov,8
+1168,Spicyhorse Games,9
+1169,Simon Roth,8
+1170,Frima Studio,1
+1171,Studio Evil,1
+1172,Blue Isle Studios,6
+1173,Completely Fair Games LLC,8
+1174,Image & Form Games,10
+1175,PD Design Studio,3
+1176,MR-Software GbR,7
+1177,Liquid Flower,5
+1178,Dirigo Games,1
+1179,Rocketcat Games,1
+1180,Minor Key Games,9
+1181,BeautiFun Games,7
+1182,SmiteWorks USA,1
+1183,Dotemu,10
+1184,Jackbox Games,9
+1185,Crunching Koalas,2
+1186,Hailstorm Games,9
+1187,Leafy Games,8
+1188,Elefantopia,2
+1189,Flippfly LLC,6
+1190,Harvester Games,7
+1191,Robotality,5
+1192,Gears for Breakfast,2
+1193,Radiant Entertainment,7
+1194,Infinitap Games,10
+1195,StarQuail Games,6
+1196,Glass Bottom Games,6
+1197,Crescent Moon Games,5
+1198,DigitalDNA Games LLC,6
+1199,WhiteMoon Dreams,6
+1200,Final Boss Entertainment,7
+1201,Worthless Bums,8
+1202,Spearhead Games,1
+1203,Expansive Worlds,6
+1204,Treasure,1
+1205,grapefrukt games,8
+1206,Topware Interactive,3
+1207,Topware Interactive ACE,8
+1208,Toontraxx Studios,4
+1209,Starbreeze,5
+1210,ProjectorGames,1
+1211,Cherry Pop Games,1
+1212,Hydravision Entertainment,9
+1213,Massive Entertainment,6
+1214,Impressions Games,1
+1215,Humongous Entertainment,8
+1216,Koboldgames,3
+1217,Trilobyte Games,7
+1218,Pulse Entertainment,4
+1219,Full Control,2
+1220,Kylotonn Entertainment,4
+1221,Ubisoft Montréal,9
+1222,Amazing Atom,9
+1223,RailSimulator.com,7
+1224,GameCrafterTeam,9
+1225,Allgraf,6
+1226,2DArray,1
+1227,Northway Games,9
+1228,The Dreamers Guild,9
+1229,Xiotex Studios Ltd,1
+1230,Fantasy Flight Publishing,7
+1231,CBE software,8
+1232,Lightmare Studios,3
+1233,2Play,8
+1234,Space Bullet Dynamics Corporation,2
+1235,Vector Unit,3
+1236,Heart Machine,1
+1237,INTERMARUM,10
+1238,Winter Wolves,7
+1239,Awesome Games Studio,3
+1240,Triple.B.Titles,8
+1241,Endless Loop Studios,3
+1242,TORaIKI,8
+1243,GRAOUMF,7
+1244,The Astronauts,7
+1245,505 Games,3
+1246,Chicago & Southwest Productions,2
+1247,Eyedentity Games,5
+1248,finalbossblues,4
+1249,PlayWay S.A.,6
+1250,Ex Nihilo,2
+1251,PolyPusher Studios,6
+1252,Eden Games,7
+1253,ToonTRAXX Studios,2
+1254,Arachnid Games,10
+1255,Naiad Entertainment LLC,1
+1256,Celsius Game Studios,1
+1257,SeeThrough Studios,2
+1258,Agharta Studio,2
+1259,Lonely Troops,9
+1260,Flix Interactive,10
+1261,Storybird,9
+1262,"""Phr00ts Software""",6
+1263,FUN Creators,2
+1264,Iteration 11,8
+1265,Netcore Games,8
+1266,astragon Entertainment,8
+1267,Sakura River Interactive,7
+1268,Ackk Studios,5
+1269,Aardman Animations,1
+1270,Upper Byte,4
+1271,Laughing Jackal LTD,1
+1272,Mimimi Games,9
+1273,The Collective,6
+1274,Ubisoft Sofia,7
+1275,Scientifically Proven,6
+1276,Eutechnyx,1
+1277,dtp Entertainment,2
+1278,WizarBox Production,6
+1279,JoWooD Vienna,1
+1280,Edge of Reality,3
+1281,Sixteen Tons Entertainment,1
+1282,KADOKAWA GAMES / GRASSHOPPER MANUFACTURE,5
+1283,Spicyhorse,5
+1284,NCSOFT,4
+1285,Code Force,2
+1286,Big Finish Games,5
+1287,Stage 2 Studios,7
+1288,Moon Studios GmbH,6
+1289,Umix Studios,8
+1290,2K Australia,3
+1291,Xtal Sword,2
+1292,Sumom Games,3
+1293,Xaviant,3
+1294,DolphinBarn,3
+1295,Kitty Lambda Games Inc.,10
+1296,Doppler Interactive,8
+1297,Red Hook Studios,3
+1298,BluBee Games,4
+1299,Tomoaki Sugeno,5
+1300,Moonbite Games,1
+1301,Toco Games,7
+1302,Orange_Juice,5
+1303,Rake in Grass,2
+1304,Gamesbymo Inc.,1
+1305,Coilworks,3
+1306,Noble Empire Corp.,3
+1307,Phantom Compass,4
+1308,Dream Holdings,4
+1309,Hörberg Productions,1
+1310,Niffler Ltd.,3
+1311,Darkmire Entertainment,8
+1312,Milkstone Studios,10
+1313,Nine Dots Studio,6
+1314,Stirfire Studios,3
+1315,Avidly Wild Games,4
+1316,HeroLabs,2
+1317,10tons Ltd,5
+1318,Excalibur Publishing,10
+1319,Heydeck Games,6
+1320,Mindware Co.,1
+1321,Matt Kap,3
+1322,Artnumeris,2
+1323,Breakfall,4
+1324,North Side,10
+1325,GhostShark,5
+1326,Space Budgie,7
+1327,ovos,1
+1328,Unbound Creations,4
+1329,The Dept of Silly Stuff,4
+1330,Sweet Dog Studios,4
+1331,Arc System Works,8
+1332,Mighty Rabbit Studios,9
+1333,Jason Oda,9
+1334,Ville Mönkkönen,6
+1335,Yakiniku Banzai,3
+1336,South East Games,1
+1337,Popcannibal,5
+1338,Strike Games,2
+1339,Wyrmbyte,6
+1340,The Domaginarium,9
+1341,Mad Otter Games,3
+1342,Ultra Runaway Games,10
+1343,Zenith Blue,3
+1344,MadAboutGamesStudios,5
+1345,Semaphore,4
+1346,Angry Mob Games,1
+1347,"""Lions Shade""",7
+1348,Dreamatrix,9
+1349,Chaosoft Games,5
+1350,Flow Combine,9
+1351,TIKIPOD,2
+1352,TwinDrills,3
+1353,A Jolly Corpse,4
+1354,MiniBoss,8
+1355,stillalive studios,1
+1356,Whole Hog Games,7
+1357,K-D Lab,7
+1358,Vae Victis Games,3
+1359,Vitali Kirpu,8
+1360,Waz,2
+1361,Silver Dollar Games,3
+1362,TawStudio Entertainment,6
+1363,Interdimensional Games Inc,3
+1364,Zaxis Games,4
+1365,Krealit,3
+1366,WizarBox,1
+1367,Rocket Jump,7
+1368,stage-nana,6
+1369,Lucid Games Ltd,6
+1370,Lantana Games,10
+1371,Bloober Team SA,6
+1372,Magiko Gaming,8
+1373,Infamous Quests,6
+1374,Icarus Games,7
+1375,Ignatus Zuk and Gonzalo Villagomez,8
+1376,Crafty Studios,3
+1377,Elder Games,9
+1378,FAKT Software Gmbh,2
+1379,Fishcow Studio,7
+1380,Paweł Mogiła,1
+1381,JDB Artist,4
+1382,Kairi Sawler,1
+1383,Murray Atkinson,3
+1384,Hibiki Katakura,2
+1385,ayato sound create,7
+1386,Capcom Game Studio Vancouver,6
+1387,Ironward,7
+1388,Matt Roszak,4
+1389,Fistful of Frags Team,6
+1390,KinifiGames LLC,4
+1391,Limasse Five,4
+1392,ExeCreate Inc.,4
+1393,Switchblade Monkeys Entertainment,8
+1394,Net Games Laboratory,8
+1395,The Working Parts,1
+1396,PIXOWL INC.,6
+1397,Nowhere Studios,10
+1398,Sherman3D,5
+1399,Matthew Brown,10
+1400,White Paper Games,5
+1401,Wastelands Interactive,2
+1402,Epixx.org,4
+1403,Thomas Bowker,10
+1404,Peoleo Entertainment,6
+1405,Project Whitecard Studios Inc.,6
+1406,Terrible Posture Games,10
+1407,Snowed In Studios,8
+1408,Tethys Interactive LLC,2
+1409,Smoking WOLF,2
+1410,White Giant RPG Studios,7
+1411,Deadly Red Cube,8
+1412,Bill and Eli Productions,5
+1413,VipaGames,3
+1414,Seaven Studio,1
+1415,Bongfish GmbH,4
+1416,Hammer Labs,3
+1417,iRacing.com Motorsport Simulations,7
+1418,Elijah Newman-Gomez,3
+1419,Max Gaming Technologies,9
+1420,BitMonster,8
+1421,Defiant Development,9
+1422,Axis Game Factory LLC,7
+1423,Terra Nova Development,1
+1424,Lightmare Studio,2
+1425,Armature Studio,7
+1426,TT Fusion,3
+1427,Clickteam,4
+1428,attic Entertainment Software GmbH,1
+1429,WaveDNA,3
+1430,Curve Games,3
+1431,Rage Software,4
+1432,Tango Gameworks,5
+1433,InsGames,10
+1434,Phenomenon Games,1
+1435,Slak Games,7
+1436,Voxler Games,10
+1437,Tuesday Society,2
+1438,Barnyard Intelligence Games,6
+1439,Mario von Rickenbach,3
+1440,Flashback Games,8
+1441,X-Legend,8
+1442,Casual Brothers,7
+1443,Gyrowolf,6
+1444,Intelligentsia,2
+1445,Brilliant Skies Ltd.,5
+1446,Liminal Games,7
+1447,Condition One,10
+1448,SmashGames,3
+1449,Robit Games,1
+1450,5 Lives Studios,9
+1451,Eversim,4
+1452,Studio MDHR Entertainment Inc.,6
+1453,Visual Outbreak,9
+1454,ToMorning Productions,8
+1455,Ska Studios,1
+1456,Spiky Caterpillar,8
+1457,Damian Sommer,10
+1458,Simogo,4
+1459,XGen Studios,7
+1460,Midgar Studio,9
+1461,Elias Viglione,5
+1462,Culture Attack Studio,3
+1463,Spicy Tails,8
+1464,Fred Wood,9
+1465,Toge Productions,5
+1466,Bedtime Digital Games,1
+1467,Organic Humans,6
+1468,Hexage,7
+1469,Polynetix Studio,7
+1470,TreeFortress Games,1
+1471,Slav Pankratov,8
+1472,The Indie Forge,7
+1473,Ranmantaru Games,10
+1474,Dev Arc,3
+1475,Dreadlocks Ltd.,10
+1476,Frogmind,6
+1477,Morgondag,9
+1478,The Quantum Astrophysicists Guild,5
+1479,HB Studios,4
+1480,Pixel Ferrets,4
+1481,Digital Happiness,8
+1482,Eric Provan - Ayyo Games,3
+1483,Moonshine Studios,6
+1484,GATO STUDIO,2
+1485,Laminar Research,2
+1486,Proton Studio Inc,4
+1487,David Amador,7
+1488,Flying Carpets Games,9
+1489,Rail Slave Games,7
+1490,MindBlocks Studio,6
+1491,Cloudhead Games ltd.,4
+1492,Osumia Games,10
+1493,The Quinnspiracy,6
+1494,Chicken in The Corn,4
+1495,Icetesy SPRL,4
+1496,Digital Media Workshop,9
+1497,Flox Studios,4
+1498,Squinkifer Productions,6
+1499,bitSmith Games,5
+1500,Cypress Inheritance,4
+1501,Erik Asmussen,9
+1502,Tin Man Games,1
+1503,Uppercut Games Pty Ltd,2
+1504,3f Interactive,1
+1505,Trickster Face,9
+1506,Himalaya Studios,8
+1507,SFB Games,10
+1508,Robert Miroszewski,4
+1509,Axis Game Factory,2
+1510,Mohawk Games,7
+1511,Fancy Bytes,2
+1512,BumpkinBrothers,4
+1513,Browny Application,4
+1514,Four Circle Interactive,7
+1515,Just A Pixel Ltd.,4
+1516,Heuristic Park,1
+1517,Flump Studios,2
+1518,JStewart Music,3
+1519,Tyler Warren,9
+1520,Tachi,3
+1521,Aldorlea Games,3
+1522,Amaranth Games,9
+1523,CyberConnect2 Co.,7
+1524,Xiotex Studios,2
+1525,Kinelco & Lone Elk Creative,8
+1526,Étienne Périn,5
+1527,Cyanide,3
+1528,Valve Corporation,10
+1529,Loren Lemcke,4
+1530,Parallax,1
+1531,Outrage Entertainment,6
+1532,Volition Inc.,1
+1533,Volition Inc,3
+1534,Upper Byte Studio,6
+1535,Ovilex Software,2
+1536,Reiza Studios,3
+1537,Sunlight Games,10
+1538,Joindots,1
+1539,United Independent Entertainment GmbH,7
+1540,Netmin Games,6
+1541,app2fun,7
+1542,Camel 101,1
+1543,Reality Twist GmbH,8
+1544,Teyon,6
+1545,Free Lives,7
+1546,Tomasz Wacławek,3
+1547,Roll7,9
+1548,Deconstructeam,2
+1549,Vagabond Dog,5
+1550,Tendershoot,1
+1551,Stellar Jockeys,3
+1552,Acid Wizard Studio,6
+1553,Laser Guided Games,5
+1554,Crazy Moo Games,1
+1555,GRIP Digital s.r.o.,6
+1556,JForce Games,10
+1557,Digital Confectioners,8
+1558,WEB Gaming Entertainment,7
+1559,Rob Howland,6
+1560,Pure FPS,7
+1561,Excalibur,3
+1562,Great Northerner,7
+1563,Trend,8
+1564,Ostrich Banditos,5
+1565,Graviteam,7
+1566,Pyxel Arts,1
+1567,Origin8,7
+1568,Coatsink,3
+1569,CrazyMoo Games,4
+1570,TickTock Games,2
+1571,Passtech Games,9
+1572,Sproing,9
+1573,Independent Arts Software,6
+1574,Radon Labs GmbH,6
+1575,Spilt Milk Studios Ltd,4
+1576,ChessBase,7
+1577,Rogue Factor,4
+1578,Rasmus Ljunggren,8
+1579,Action Button Entertainment,2
+1580,Bane Games,8
+1581,Stage Clear Studios,7
+1582,Z4G0 and Ivan Venturi Productions,9
+1583,Screaming Bee,2
+1584,Union Workshop,4
+1585,Skyhook Games,6
+1586,TK.Projects,5
+1587,Karugamo,8
+1588,Die Gute Fabrik,10
+1589,Tricktale,2
+1590,HyperKat Games,5
+1591,Nerd Kingdom Inc.,7
+1592,InoCo,6
+1593,KOEI TECMO GAMES CO.,10
+1594,Gone North Games,7
+1595,Alan Zucconi,8
+1596,Dancing Dragon Games,1
+1597,Qute,10
+1598,Solest Games,8
+1599,Dark Gaia Studios,10
+1600,Phigames,9
+1601,Wonderfling,2
+1602,Jonathan Yandel,5
+1603,Alastair John Jack,2
+1604,Team Jolly Roger,7
+1605,Дмитриев Максим Константинович,7
+1606,Valorware,6
+1607,Last Dimension,7
+1608,Owl Cave,4
+1609,World-Loom,8
+1610,Forge Reply srl,3
+1611,Neutron Games GmbH,8
+1612,Games-Up,3
+1613,Ticonblu,7
+1614,Hypercane Studios,2
+1615,Keybol,6
+1616,Koalabs,3
+1617,Nekrosoft,4
+1618,Primal,10
+1619,Artifex Mundi,3
+1620,Decent Machine,9
+1621,Lost Decade Games,7
+1622,Lince Works,3
+1623,Rogue Earth LLC,5
+1624,Knuckle Cracker,9
+1625,Vigilant Addiction Studios,4
+1626,Coldrice Games LLC,2
+1627,DMD Enterprise,3
+1628,Concave Studio,7
+1629,LeGrudge & Rugged,8
+1630,Siege Games,8
+1631,bumblebee,7
+1632,Doragon Entertainment,10
+1633,WRF Studios,2
+1634,gamigo AG,3
+1635,Burian Media Enterprises,10
+1636,Serious Bros.,8
+1637,Playful Corp.,2
+1638,Yuisy,5
+1639,Creazn Studio,6
+1640,MAG Studios,6
+1641,Digital Fusion,7
+1642,Supersonic Software,5
+1643,GameORE,6
+1644,Computerhouse,2
+1645,ZSK Progres s.c.,9
+1646,Third Wire Productions,2
+1647,Gojira,4
+1648,Bojan Brbora,7
+1649,SITER SKAIN,7
+1650,Dreamworlds,2
+1651,GRIN,7
+1652,Rainbow Studios,2
+1653,Enter Skies,9
+1654,Wingware,8
+1655,GolemLabs,6
+1656,Nvizzio Creations,6
+1657,PixelNAUTS,9
+1658,polynation games ltd,6
+1659,Last Limb LLC,1
+1660,Digital Tentacle,2
+1661,"""Never Dont Play""",5
+1662,Mastertech,1
+1663,IDEA FACTORY Co.,1
+1664,Stephane Valverde,10
+1665,Playcoo,9
+1666,PestoForce,2
+1667,Marauder Interactive,4
+1668,Faravid Interactive,9
+1669,MEGAFUZZ,8
+1670,Idol FX,8
+1671,Infogames Europe SA,1
+1672,Brainbox Games,8
+1673,Jarhead Games,10
+1674,Asobo Studio,3
+1675,Gremlin Interactive,1
+1676,Komar Games,7
+1677,Neutron Games,1
+1678,Web Technology Corp.,9
+1679,Somi,3
+1680,Crystal Shard,9
+1681,Treehouse Ltd,10
+1682,Oak Gear,5
+1683,Refactored Games OÜ,5
+1684,Epiphany Games,1
+1685,BeamNG,4
+1686,Morgopolis Studios,7
+1687,Frozen Orb,1
+1688,Finish Line Games,7
+1689,Fernando Ramallo,10
+1690,Silden,5
+1691,The Game Kitchen,2
+1692,Overflow,4
+1693,5 Bits Games,9
+1694,Tap It Games,1
+1695,Moonrise Interactive,7
+1696,Ironsun Studios,6
+1697,Holy Warp,4
+1698,The Digital Puzzle Company,5
+1699,OPQAM,6
+1700,Pulsetense Games,10
+1701,RainDance LX,3
+1702,Visual Entertainment And Technologies,5
+1703,The Mustard Corporation,7
+1704,Chris Sawyer Productions,3
+1705,Scott Thunelius,7
+1706,toxtronyx interactive GmbH,6
+1707,Lanea Zimmerman,6
+1708,Elijah Mills,3
+1709,Squinky and the Squinkettes,3
+1710,Magic Notion Ltd,7
+1711,Tortuga Team,5
+1712,RageSquid,10
+1713,Schell Games,8
+1714,Boneloaf,6
+1715,Payload Studios,5
+1716,Kraken Empire,10
+1717,BadFly Interactive,1
+1718,Cuve Games,6
+1719,Badru,10
+1720,Berserk Games,5
+1721,Frogdice,3
+1722,WaterMelon,9
+1723,Trichotomy,6
+1724,ALICE IN DISSONANCE,1
+1725,Fishing Cactus,10
+1726,Nemoria Entertainment,5
+1727,10th Art Studio,2
+1728,Graveck,8
+1729,Cranberry Production,3
+1730,MagicIndie,10
+1731,48h Studio,5
+1732,4A Games,4
+1733,Microprose,3
+1734,Spectrum Holobyte,2
+1735,Behaviour Interactive,1
+1736,Le Cortex,2
+1737,DigiFX Interactive,5
+1738,b-alive gmbh,6
+1739,Proxy Studios,7
+1740,Big Bad Wolf,2
+1741,Konami Digital Entertainment,5
+1742,Leadwerks Software,9
+1743,different cloth,4
+1744,Barnstorm Games,9
+1745,Star Vault AB,4
+1746,Sirlin Games,8
+1747,Dinosaur Polo Club,1
+1748,David Vogt,2
+1749,Castle Pixel,6
+1750,WZOGI,1
+1751,Night Light Interactive,4
+1752,D-Dub Software,10
+1753,Spark Plug Games,8
+1754,Adventurepro Games LLC,6
+1755,PERFECT PARALLEL,7
+1756,Fireproof Games,8
+1757,sakevisual,4
+1758,Born Ready Games,8
+1759,QUByte Interactive,8
+1760,Witan Entertainment,7
+1761,Appmania,2
+1762,Play,2
+1763,Gogii Games,7
+1764,VIS-Games,5
+1765,{uni},8
+1766,DVS,8
+1767,Saturn-plus,1
+1768,Shaman Games Studio,6
+1769,Plastic Reality Technologies,10
+1770,Nikita,9
+1771,Creat Studio,10
+1772,CrioLand,2
+1773,ALTAR Interactive,10
+1774,Apeiron,4
+1775,Creoteam,3
+1776,Deck13 Hamburg,10
+1777,weltenbauer. Software Entwicklung GmbH,2
+1778,MURA Interactive,2
+1779,Incandescent Games,7
+1780,Rusty Moyher,9
+1781,Bitbox Ltd.,10
+1782,Alan Hazelden,4
+1783,Quantized Bit,3
+1784,Double Damage Games,9
+1785,Defrost Games,3
+1786,League of Geeks,4
+1787,Apparition Games,9
+1788,Shindenken,1
+1789,CyberStep,4
+1790,Vogelsap,2
+1791,KO_OP,7
+1792,Panzer Gaming Studios,6
+1793,Pixel Pushers Union 512,6
+1794,Gravvit Ltd,7
+1795,Over The Moon,6
+1796,Sunstone Games,1
+1797,N-Game Studios,8
+1798,Bretwalda Games,2
+1799,SomaSim,5
+1800,Game Mechanics LLC,10
+1801,Handsome Games,9
+1802,Haruneko Entertainment,7
+1803,Good Games,4
+1804,Trese Brothers,3
+1805,Meteoric Games,7
+1806,Gamebell Studio,1
+1807,Josh Tam Universe,2
+1808,JumpCore Productions,4
+1809,Gentleman Squid Studio,3
+1810,Niels Bauer Games,6
+1811,MY.GAMES,6
+1812,Blue Mammoth Games,10
+1813,Easy Co,3
+1814,Pixel Night,8
+1815,Galaxy Pest Control,2
+1816,VIS - Visual Imagination Software,6
+1817,Starfish-SD Inc,2
+1818,Lever Games,8
+1819,Electric Eggplant,6
+1820,Altar Interactive,3
+1821,Coronado Games,7
+1822,Kodots Games,2
+1823,30.06 Studios Ltd,1
+1824,Pyrodactyl,4
+1825,Fly System,10
+1826,Studio Pixel,5
+1827,Utopian World of Sandwiches,5
+1828,Kumobius,1
+1829,Paul Marrable,10
+1830,Future Games,5
+1831,Orphic Software,7
+1832,Microblast Games,5
+1833,SOF Studios Ltd,10
+1834,Nate Schmold,4
+1835,The Knights of Unity,6
+1836,Nova Dimension,1
+1837,immersionFX,5
+1838,Astral Byte Ltd.,3
+1839,Ansimuz Games,3
+1840,Scorpius Games,1
+1841,AAD Productions,10
+1842,Digital Dreams Entertainment LLC,9
+1843,Masthead Studios Ltd,10
+1844,Chainsaw Syndicate,6
+1845,Rat King Entertainment,3
+1846,MoaCube,1
+1847,Vector Games,10
+1848,Camshaft Software Ltd,10
+1849,Powerhoof,1
+1850,Sunken Places,5
+1851,Psydra Games LLC,4
+1852,Fixpoint Productions Ltd.,10
+1853,Aartform Games,5
+1854,Wax Lyrical Games,3
+1855,VaragtP,5
+1856,Lumenox ehf,4
+1857,Ludeon Studios,1
+1858,WayForward Technologies Inc.,4
+1859,Bulwark Studios,6
+1860,Zojoi,2
+1861,Green Lava Studios,6
+1862,rondomedia GmbH,7
+1863,Eisenbahnwerk,5
+1864,Matrix Trains,9
+1865,Peter Moorhead,1
+1866,Italic Pig Limited,9
+1867,Heart Shaped Games LLC,2
+1868,Magnetic Realms,9
+1869,Artem Kotov,8
+1870,PPC,4
+1871,Graphite Lab,7
+1872,Andy Wallace,7
+1873,Psychic Software,3
+1874,Windybeard,1
+1875,Auren Snyder,10
+1876,Hippomancer,8
+1877,Upper One Games,10
+1878,Nick Donnelly,10
+1879,Paleozoic,5
+1880,Micro Factory Games,2
+1881,Atapki,8
+1882,Intravenous Software,10
+1883,Aduge Studio,3
+1884,Key17 Games,8
+1885,Pantumaca Barcelona,8
+1886,Genee Network,5
+1887,Alawar Entertainment,8
+1888,Boolat Games,8
+1889,Flat Earth Games,1
+1890,Aquiris Game Studio,9
+1891,Stegersaurus Software Inc.,10
+1892,Game in a Bottle,9
+1893,Team Tripleslash,1
+1894,Steve Jarman,5
+1895,Studio Paint,1
+1896,Numantian Games,2
+1897,Kardfy Studios,9
+1898,Demon Wagon Studios,1
+1899,kunst-stoff GmbH,5
+1900,Team Junkfish,9
+1901,Vivid Games S.A.,2
+1902,Arcade Injection,9
+1903,Mechanical Butterfly Studios,8
+1904,Asteristic Game Studio,8
+1905,Tasty Poison,4
+1906,AwesomeBlade,5
+1907,Hapa Games,3
+1908,DL Softworks,2
+1909,Wild Factor,7
+1910,TiconBlu,4
+1911,Ross Edgar,5
+1912,Gl33k,9
+1913,Terri Vellmann,8
+1914,Acid Nerve,2
+1915,1DER Entertainment,3
+1916,Oryx Design Lab,2
+1917,Nerd Monkeys,9
+1918,Wrestling Gamers United,6
+1919,Firebase Industries Ltd.,2
+1920,PostMod Softworks,7
+1921,Trickster Arts,8
+1922,Vexel Games,7
+1923,Shangri-La Game Studios Ltd,8
+1924,Notorious Games,5
+1925,Unfinished Pixel,6
+1926,Black Cactus,6
+1927,SleepNinja Games,8
+1928,Revistronic,4
+1929,Vexed Enigma,4
+1930,Frontier Works,4
+1931,Phosphor Games,4
+1932,Dlala Studios,4
+1933,Turnopia,7
+1934,Black Rock Studio,1
+1935,Cavedog Entertainment,9
+1936,Arberth Studios,8
+1937,Hunted Cow Studios,5
+1938,Scott Cawthon,7
+1939,Vermont Software Studios,4
+1940,Rocketeer Games Studio,5
+1941,Creability,9
+1942,Peter Cleary,9
+1943,Jujubee S.A.,1
+1944,Studio Eres,9
+1945,Nano Games,9
+1946,Juicy Beast,2
+1947,Etter Studio,6
+1948,Evil Twin Artworks,8
+1949,Night Node,7
+1950,Pixelsaurus Games,3
+1951,quicktequila,10
+1952,Mouldy Toof Studios,2
+1953,Stormling Studios,10
+1954,"""Carlo DApostoli Projects""",2
+1955,Kettel,6
+1956,Colossal Games,5
+1957,4gency,7
+1958,Darius Bode,9
+1959,Toadman Interactive,10
+1960,White Lotus Interactive,8
+1961,candyrocketstudio,10
+1962,Big Head Games Ltd,3
+1963,Choice of Games,9
+1964,Grimm Bros,6
+1965,Nyamyam,9
+1966,Dan Walters,1
+1967,Entrada Interactive LLC,7
+1968,Glass Knuckle Games,7
+1969,Happy Square Productions,1
+1970,Evilized Productions,2
+1971,Tiny Game Fort,4
+1972,Anchora Games,6
+1973,THREE ONE ZERO,2
+1974,Barnes,4
+1975,Pigasus Games,5
+1976,Stolen Couch Games,5
+1977,BlackMoon Design,3
+1978,Helvetica Scenario,2
+1979,Two Desperados,7
+1980,EQ-Games ,5
+1981,Acceleroto,2
+1982,Gamatic,3
+1983,RosePortal Games,10
+1984,VooFoo Studios,3
+1985,Steel Wool Games,5
+1986,Ripstone,7
+1987,Avalanche Software,4
+1988,Sports Interactive,7
+1989,Sourena Game Studio,9
+1990,Sport1 GmbH,1
+1991,InterAction studios,5
+1992,Ole Lange,6
+1993,Arctic Anteater,5
+1994,Moonshot Games,3
+1995,La Moustache Studio,5
+1996,Freejam,8
+1997,Curious Panda Games,7
+1998,OSome Studio,4
+1999,Big Boat Interactive,5
+2000,Cryo Interactive,4
+2001,Behaviour Interactive Inc.,9
+2002,Samurai Punk,1
+2003,\xa0Eurocom Entertainment Software,8
+2004,Asylum entertainment,10
+2005,Access Software,7
+2006,Fragment Production Ltd,3
+2007,Appmania/i-Free,3
+2008,Binary Helix,3
+2009,Subvert Games,6
+2010,Ian MacLarty,7
+2011,Room 8 Studio,5
+2012,Walk Thru Walls Studios,3
+2013,Little Worlds Interactive,2
+2014,rdein,1
+2015,Team Monkey,9
+2016,Novalink,2
+2017,RealAxis Software,4
+2018,Konsordo,5
+2019,Everything Unlimited Ltd.,10
+2020,JCR Soft Co.,10
+2021,Uniworlds Game Studios,1
+2022,Poni-Pachet SY,9
+2023,NOVECT,2
+2024,Puuba,8
+2025,No Goblin,7
+2026,Parseh Game Studio,7
+2027,SuckerFree Games,3
+2028,Timbre Interactive,5
+2029,Tic Toc Games,10
+2030,Adam Spragg,5
+2031,NYP,1
+2032,Highcastle Studios,5
+2033,Isotope 244 LLC,4
+2034,Games Hut,2
+2035,oeFun,10
+2036,Adam Saltsman,8
+2037,XLGAMES,9
+2038,Freedom Factory,7
+2039,Holden Boyles,5
+2040,HandMade Game,10
+2041,Coldwood Interactive,9
+2042,Nano Games sp. z o.o.,9
+2043,Failbetter Games,9
+2044,Bat Country Games,10
+2045,Landauer Games,7
+2046,Urban Games,1
+2047,Space Monkey International,3
+2048,Propelled Bird Software,6
+2049,Curious Planet,7
+2050,Garage Collective LLC,1
+2051,Atypical Games,2
+2052,Smartly Dressed Games,9
+2053,Celestial Games,8
+2054,Dual Studios,10
+2055,Housemarque,4
+2056,I Fight Bears,8
+2057,DR Studios,1
+2058,HE SAW,10
+2059,Bigmoon Studios,7
+2060,Hinterland Studio Inc.,9
+2061,Kitfox Games,8
+2062,FarrugiaSoft,6
+2063,Cascade Game Foundry SPC,2
+2064,Blue Mana,6
+2065,ILIKESCIFI Games,9
+2066,Daniel Ratcliffe,3
+2067,Anthony Case,4
+2068,Rob Lach,1
+2069,ApathyWorks,4
+2070,astragon Sales &amp; Services GmbH,2
+2071,Shaun Spalding,7
+2072,Nexcentric Games,5
+2073,Sky Drake Studios,1
+2074,Ninja Kiwi,10
+2075,Antanas Marcelionis,7
+2076,Zenimax Online Studios,1
+2077,HLA team,2
+2078,RVL Games,8
+2079,Connor Ullmann,10
+2080,Kritzelkratz 3000,5
+2081,LGK Games,10
+2082,88mm,3
+2083,Game-Labs,9
+2084,d3t,7
+2085,Confused Pelican,9
+2086,Cyan Inc.,1
+2087,Funnel Inc.,7
+2088,Endgame Studios,7
+2089,Magenta Factory,10
+2090,Darkelite Studio Inc,9
+2091,tequibo,6
+2092,Deli Interactive LLC,7
+2093,Legend Studio,8
+2094,2.0 Studios,9
+2095,Conrad Nelson,8
+2096,initials,1
+2097,Tribe Studios,2
+2098,Anthony Flack,1
+2099,Idigicon,8
+2100,Twelve Games,2
+2101,Reload Game Studio,1
+2102,Grundislav Games,7
+2103,Technocrat Games,9
+2104,Self Made Miracle,9
+2105,EnV Music,6
+2106,Last Bastion Studios LLC,7
+2107,1C Game Studios,9
+2108,Childish Things,3
+2109,The Software Farm,7
+2110,Sand Sailor Studio,6
+2111,Gugila,4
+2112,Polar Motion,7
+2113,Alfred Lam,5
+2114,YorkshireRifles,10
+2115,Red Meat Games,9
+2116,Zut Games,7
+2117,DQ Team,9
+2118,Lunar Labs,10
+2119,JarthGames,1
+2120,Stone Monkey Studios,4
+2121,Tiny Lab Productions,4
+2122,Nik Nak Studios,2
+2123,Kyy Games,4
+2124,Faultline Games,5
+2125,07th Expansion,1
+2126,CyberCoconut,5
+2127,VR Designs,2
+2128,Kids up hill,7
+2129,Skilltree Studios,3
+2130,Funky Logic Studios,1
+2131,Lucid Games,1
+2132,Really Slick,9
+2133,Digital Furnace Games,2
+2134,Narrow Monolith,2
+2135,Jugilus,6
+2136,SmallGreenHill,5
+2137,Puzzling Dream,7
+2138,ViewApp,6
+2139,MADia Entertainment,5
+2140,Orion Games,4
+2141,BlueEagle Productions,8
+2142,Spike Chunsoft Co.,5
+2143,Purple Lamp,4
+2144,Grimlore Games,4
+2145,OCR Dev Team,4
+2146,Nerdook Productions,10
+2147,Lunagames,8
+2148,Dodge Roll,2
+2149,Freehold Games,9
+2150,Team NINJA,10
+2151,Super Duper Garrett Cooper,4
+2152,Tripmine Studios,1
+2153,Decane,1
+2154,rokaplay,4
+2155,New Reality Games,7
+2156,Retro Army Limited,6
+2157,Cape Copenhagen,3
+2158,BatCat Games,4
+2159,Ionising Software,1
+2160,Social Loner Studios,4
+2161,Lexis Numérique,6
+2162,Hyper Hippo Games,10
+2163,Bit Kid,7
+2164,Touz,8
+2165,XIAOYAO,4
+2166,Good Morning,5
+2167,Only Human Studios,6
+2168,The Lordz Games Studio,9
+2169,Studio Nyx,3
+2170,The Artistocrats,5
+2171,Big Pixel Studios,4
+2172,Videocult,8
+2173,Landon Podbielski,2
+2174,NEXT-SOFT+,2
+2175,SMG Studio,8
+2176,Psychotic Psoftware,7
+2177,Viva Media,8
+2178,ViWo Games,6
+2179,Corncrow Games,1
+2180,Up Multimedia,4
+2181,Ilex Games,2
+2182,Lemondo Entertainment,5
+2183,Shark Punch,9
+2184,Rocksteady,7
+2185,Beam Team Games,1
+2186,TAD Productions AB,1
+2187,Crimson Cow,2
+2188,Pixelatto,4
+2189,Dream Up,2
+2190,David OReilly,6
+2191,Screwy Lightbulb,6
+2192,Project ICKX,8
+2193,Cross Eaglet,2
+2194,Experimental Gamer Studios,3
+2195,On The Level Game Studios,8
+2196,FrameLineNetwork,4
+2197,Hourences,9
+2198,TT Games Ltd,1
+2199,Love in Space,9
+2200,Winged Cloud,9
+2201,KAIKO,8
+2202,Gabriel Priske,3
+2203,Autumn Moon,8
+2204,Galhmac Game Studio,10
+2205,Replicant D6,4
+2206,Mokus,4
+2207,Dan  Walters,7
+2208,Bluestrike,4
+2209,Metalhead Software Inc.,3
+2210,Rampant Games,4
+2211,Microsoft Game Studios,7
+2212,CAVE Interactive CO.,3
+2213,Archetype Global,1
+2214,Sanuk Games,5
+2215,Elliptic Games,8
+2216,Skatanic Studios,1
+2217,Sinclair Strange,5
+2218,Bernt Andreas Eide,6
+2219,FobTi interactive,1
+2220,Imaekgames Imaek Limited,8
+2221,gnifrebel Games UG,8
+2222,Caravel Games,9
+2223,Ludeme Games,9
+2224,W3 Studios,2
+2225,Duaik Entretenimento,7
+2226,Hearthfire Studios,7
+2227,YingPei Games,5
+2228,Sharpened Edge Studios,4
+2229,Chromatic Dream,6
+2230,Winged Pixel Inc.,3
+2231,Mobot Studios,10
+2232,Tangrin Entertainment,7
+2233,Minicore Studios,4
+2234,The Paper Robot,2
+2235,Gamesare,9
+2236,TwoPM Studios,2
+2237,Cosmographic Software,6
+2238,Just Add Water (Developments),4
+2239,Comcept,1
+2240,Nexus Game Studios,7
+2241,Dreampainters Software,4
+2242,Proscenium,7
+2243,Noble Master LLC,10
+2244,JosPlays,6
+2245,Strides Interactive Game Studio,6
+2246,MiniVisions,9
+2247,Pixelz Games,6
+2248,Holotech Studios,2
+2249,Decaying Logic,4
+2250,Bluebutton Games,7
+2251,Oruji Productions,2
+2252,Gaddy Games,8
+2253,Backstab Games,9
+2254,alpha six productions,4
+2255,Moss Co.,10
+2256,minori,4
+2257,Patrice Meneguzzi,8
+2258,FourbitFriday,2
+2259,Ekuator Games,5
+2260,Enitvare,9
+2261,Interbellum team,1
+2262,N94Games,7
+2263,Pentavera,9
+2264,Etranges Libellules Studios,9
+2265,Polar Bunny Ltd,7
+2266,Sumo Digital Ltd,2
+2267,Harmonix Music Systems,3
+2268,German Airports Team,1
+2269,Papaya Studio,8
+2270,Great War Team,3
+2271,Sarepta studio,4
+2272,Force Of Habit,10
+2273,VisualArts/Key,10
+2274,GammaLateral,1
+2275,One-bit Punch,6
+2276,AlphaNuts,5
+2277,Calvino Noir,2
+2278,Jae Lee Productions,9
+2279,Dynamic Games,1
+2280,VEAO Simulations,6
+2281,Magnitude 3 LLC,10
+2282,AvioDev,2
+2283,Fledermaus,3
+2284,Ghost Machine,1
+2285,Camouflaj,10
+2286,Cross-Product,7
+2287,Alasdair Beckett-King,1
+2288,Four Lights,8
+2289,Double Action Factory,8
+2290,REMIMORY,10
+2291,GameArt Studio GmbH,4
+2292,Cosmic Cow LLC,1
+2293,Qwiboo Ltd,1
+2294,Big Red Eight,4
+2295,The Secret Pie,1
+2296,Shawn Beck,5
+2297,Warlock Arts,2
+2298,RED STAR GAMES,6
+2299,Gambrinous,5
+2300,GAME ARTS Co.,7
+2301,AMA,8
+2302,Basecamp Games,7
+2303,Tavern Games,2
+2304,Fakedice,3
+2305,Axyos Games,4
+2306,Heartbit Interactive,1
+2307,Odin Game Studio,6
+2308,Convoy Games,9
+2309,Nexeon Studios,3
+2310,PIPE Studio,8
+2311,Gamestar,10
+2312,Tomi Maarela,6
+2313,Wonderful Tree Studio,9
+2314,Nerve Software LLC,1
+2315,Grynsoft,8
+2316,Traptics,5
+2317,The Molasses Flood,5
+2318,vertex4 entertainment GmbH,1
+2319,Z-Software,3
+2320,Vinci Games,1
+2321,Griptonite Games,1
+2322,Snake Hill Games,1
+2323,DascuMaru,9
+2324,Juggernaut Games,3
+2325,Snapshot Games Inc.,1
+2326,High Impact Games,1
+2327,Sam Albon,9
+2328,Tasty Stewdios LLC,4
+2329,Ripatti Software,9
+2330,Yatagarasu Dev Team,8
+2331,Disney Interactive,3
+2332,4Realms,8
+2333,Disparity Games,4
+2334,electrolyte,10
+2335,MobileBits,10
+2336,bumblebee.,5
+2337,LinkSolutions Ltd.,7
+2338,Alex Piola,5
+2339,Mografi,1
+2340,Rival Games Ltd,7
+2341,CAVYHOUSE,1
+2342,Mårten Jonsson,5
+2343,Funselektor Labs Inc.,5
+2344,ONE MORE LEVEL,5
+2345,Homa Design,5
+2346,Delphine Software,1
+2347,All Those Moments,1
+2348,Chasing Carrots,5
+2349,Mixel,3
+2350,Sonalysts Combat Simulations,5
+2351,Playdek,9
+2352,Chocolate Liberation Front,2
+2353,Milky Tea Studios,5
+2354,URSE Games,7
+2355,M2 Co.,3
+2356,Deadghost Interactive,10
+2357,Swordtales,10
+2358,Cinemaware,3
+2359,Fugazo,9
+2360,Bs1 & Bslteam,4
+2361,Transcendent Games,3
+2362,Sascha Hartleb,8
+2363,The Game Creators,3
+2364,SDP Games,5
+2365,Digital Melody,3
+2366,Michael Galefire,7
+2367,Mad Ram Software,8
+2368,Sujin Ri,9
+2369,Brytenwalda,9
+2370,Irongames Studio,2
+2371,James Mearman,10
+2372,Sub Orbital Software,9
+2373,Circle Five Studios,8
+2374,Midnart,9
+2375,REEW GAMES,4
+2376,Nordic Legacy,10
+2377,Supra Games,6
+2378,Hammerware,10
+2379,Daniel Linssen,6
+2380,Snack Games,10
+2381,Brain Bombers,9
+2382,MAGIX Software GmbH,3
+2383,Maus Software,3
+2384,VINE,3
+2385,IDHAS Studios,9
+2386,Jesse Makkonen,9
+2387,Zeppelin Studio,1
+2388,Cubic Pie,9
+2389,Limbic Entertainment,4
+2390,Mountain Sheep,5
+2391,Andre Chagas Silva,1
+2392,Swagabyte Games,10
+2393,Batterystaple Games,7
+2394,RobTop Games,1
+2395,Rogueside,1
+2396,TGS Tech,6
+2397,MouldyMattress,5
+2398,Yanim Studio,4
+2399,Loveshack Entertainment,1
+2400,SUPERHOT Team,5
+2401,Crispon Games,4
+2402,Unruly Attractions,8
+2403,Keys of Nine Entertainment,2
+2404,FiolaSoft Studio,10
+2405,Indimo Labs LLC,1
+2406,GabberGames.com,2
+2407,Hammerfall Publishing,6
+2408,Paul Cuisset,1
+2409,Artefacts Studio,4
+2410,YETi CGI,9
+2411,Choice Provisions,7
+2412,Nuke Nine,9
+2413,iMaxGen,1
+2414,Reflections,5
+2415,Question,1
+2416,EXE-CREATE,4
+2417,DIMPS,8
+2418,CorypheeSoft,6
+2419,Thunder Lotus Games,8
+2420,Rotateam,10
+2421,One Legged Seagull,1
+2422,Incandescent Imaging,6
+2423,Glitchy Pixel,3
+2424,Shining Gate Software,10
+2425,Those Awesome Guys,3
+2426,Gamious,6
+2427,JIW-Games,8
+2428,Dinamic Games,7
+2429,Duelboot,5
+2430,ThoughtSTEM,4
+2431,Blue Label Studio,1
+2432,AtomicTorch Studio,2
+2433,Polygon Art,9
+2434,Juniper Games,5
+2435,TheShortAndTheTall,10
+2436,Nine Tales Digital,1
+2437,Princesseuh,9
+2438,Wonderstruck,2
+2439,343 Industries,7
+2440,Tom De Roeck,6
+2441,Sector3 Games,4
+2442,ODD Games,3
+2443,Lexis Numerique,7
+2444,Reakktor Studios,4
+2445,Toasty Games,2
+2446,Smack Down Productions,8
+2447,Angels Blue Digital Entertainment,5
+2448,Icarus Development Team,5
+2449,Carenado,2
+2450,Team Flow,3
+2451,Zotnip,2
+2452,Claudio Norori,2
+2453,Oz,1
+2454,Wildgrass,5
+2455,Funktronic Labs,2
+2456,Copybugpaste,9
+2457,Metaware Limited,7
+2458,Archeia,7
+2459,Vince DiCola,3
+2460,Skydome Entertainment,2
+2461,Red Katana,10
+2462,Drakkar Dev,8
+2463,Levels or Lives,6
+2464,Slick Entertainment Inc.,4
+2465,Creative Rail,10
+2466,Romantic Railroads,10
+2467,Virtual New Haven Railroad,7
+2468,Fastline Simulation,5
+2469,virutalRailroads,2
+2470,Dharker Studio,9
+2471,Nerd Monkeys®,7
+2472,Knitted Pixels,9
+2473,Little World Studio,7
+2474,Studio Whisky Tango Inc.,3
+2475,Catnip Games,9
+2476,Jetdogs Studios,10
+2477,YOTSUBANE,4
+2478,AIGRIND,6
+2479,Chimera Entertainment,3
+2480,Tasharen Entertainment Inc.,1
+2481,kChamp Games,6
+2482,Mind Crew,6
+2483,MoeNovel,5
+2484,Ste Curran,2
+2485,Atmosphere Entertainment Studios,2
+2486,Rodeo Games,3
+2487,With The Love Studios,1
+2488,AHEARTFULOFGAMES,7
+2489,David Hensley,7
+2490,Ultravision Interactive,3
+2491,251 Games,2
+2492,Team17,5
+2493,Milieu,5
+2494,Bits & Beasts,8
+2495,Black Eye Games,3
+2496,Space Boat Studios,1
+2497,Timeslip Softworks,7
+2498,Reload Games Studio,6
+2499,Super Icon Ltd,8
+2500,Subscience Studios,10
+2501,ClickShake Games LLC,6
+2502,bitHuffel,9
+2503,Mr. Podunkian,8
+2504,Gatling Goat Studios,1
+2505,rdt.32,9
+2506,Dreadbit,7
+2507,Skymap Games,10
+2508,Lavaboots Studios,8
+2509,Sigtrap,2
+2510,Epic MegaGames,5
+2511,MPS Labs,8
+2512,DigitalWorldEntertainment,4
+2513,Muteki,6
+2514,Rhaon Entertainment,2
+2515,Turbo Pixel Studios,9
+2516,Raymond Doerr,8
+2517,Quickfire Games,10
+2518,Lostwood,9
+2519,Crenetic GmbH Studios,9
+2520,Accolade,1
+2521,Cyberlore Studios,1
+2522,Retro Dreamer,9
+2523,Quaternion Studio,10
+2524,Johnny Death Games,8
+2525,Raylight Games,4
+2526,Mission Critical Studios,9
+2527,Bloodwolf Studio,10
+2528,Bacon Bandit Games,3
+2529,Black Shell Media,4
+2530,Alternative Software Ltd,8
+2531,Red Hedgehog,8
+2532,Chessbase,4
+2533,Wayward Design,6
+2534,Zach Kehs (SunnyKatt),10
+2535,Hydro Games,9
+2536,Chris Hecker,5
+2537,Infinity Plus 2,1
+2538,Anisoptera Games,7
+2539,CBE software s.r.o.,3
+2540,Ramjet Anvil,4
+2541,Aegon Games Ltd,2
+2542,Twistplay,10
+2543,Animus Interactive Inc,2
+2544,nalothchris,5
+2545,Rezoner,3
+2546,Marsbound,4
+2547,Carbon,2
+2548,Sonic Team,5
+2549,West Dragon Productions DR,7
+2550,MAGES. Inc.,6
+2551,Ozark Softscape,1
+2552,TNT Team,7
+2553,Darkraven,1
+2554,David Szymanski,2
+2555,Manekoware,4
+2556,DONTNOD ENTERTAINMENT,9
+2557,Electric Succubi,7
+2558,Simon Says: Play!,10
+2559,Ganz Studio,9
+2560,Mirko Seithe,4
+2561,Pastagames,9
+2562,Frozen District,4
+2563,VooFoo Studios Ltd,5
+2564,YFYX GAMES,8
+2565,Top3Line s.r.o.,9
+2566,OKAM Studio,9
+2567,LuGus Studios,3
+2568,Romenics,5
+2569,Exquisite Games,8
+2570,Blot Interactive,4
+2571,Attract Mode Games,6
+2572,Lighthouse Games Studio,8
+2573,Particle Systems Ltd.,7
+2574,Parody Games,3
+2575,Serenity Forge,7
+2576,XMPT Games,10
+2577,On Target Simulations,8
+2578,Tammeka Games,9
+2579,MidBoss,6
+2580,Move Games Co.,6
+2581,Brave Giant LTD,9
+2582,Beenox,2
+2583,TURBOGUN,7
+2584,Daniel Davies,5
+2585,Adventure Mob,10
+2586,Rude Ghost,4
+2587,xinoro,7
+2588,Encryptique,2
+2589,Hoplon,7
+2590,WINGED SAKURA GAMES,5
+2591,Daniel Gill,9
+2592,Mvisioning,5
+2593,Kinto Games LLC,10
+2594,KnowWonder,9
+2595,Soviet Games,1
+2596,Atmos Games,10
+2597,Hesketh Studios Ltd,8
+2598,Moondrop,8
+2599,FlexileStudio,10
+2600,Neon Serpent LLC,9
+2601,Eddy & Gary & Friends,3
+2602,Torus Games,3
+2603,Fourattic,6
+2604,No Bull Intentions,2
+2605,Farom Studio,6
+2606,Forgotten Key,10
+2607,PlayWay SA,3
+2608,Barking Dog Studios,3
+2609,Glowforth,7
+2610,JumpStart Games,5
+2611,Thomas Happ Games LLC,2
+2612,Aurelien Regard,10
+2613,Awoker Games,9
+2614,Mythical City Games,6
+2615,Neon Deity Games,3
+2616,Furiously Inactive Games,10
+2617,Fayju,7
+2618,Dreadlocks Mobile,9
+2619,Delve Interactive,8
+2620,oophok,2
+2621,Fairytale Distillery,5
+2622,Bogdan Sychkov,10
+2623,"""Ratz N Godz""",7
+2624,Thrillion,7
+2625,Black Lime Studio,5
+2626,Hot Lava,8
+2627,blamedrop,8
+2628,Silverware Games,5
+2629,Glowstick Entertainment,10
+2630,Demesnegame,9
+2631,Mykhail Konokh,6
+2632,XPEC Entertainment Inc.,4
+2633,Animu Game,8
+2634,Physmo,10
+2635,Thomas Biskup,1
+2636,Beldarak Games,4
+2637,Chaphat,4
+2638,Wolfgame,7
+2639,White Birds Productions,8
+2640,Arc System Works Co.,8
+2641,Team Replay,2
+2642,Leikir Studio,4
+2643,Subaltern Games,1
+2644,Insomniac Games,7
+2645,NEKO WORKs,10
+2646,Ironcode Gaming,9
+2647,Jsmael Stieger,2
+2648,Cameron Kunzelman,4
+2649,DFour Games,5
+2650,Nooner Bear Studio LLC,9
+2651,BrashMonkey,9
+2652,Acquire Corp.,4
+2653,Five Archers Games,7
+2654,Thoughtshelter Games,6
+2655,10x10 Room,1
+2656,Shadow Masters,7
+2657,Gadget Games,4
+2658,Rubycone,9
+2659,Golden Ruby Games,3
+2660,Pencil Test Studios,2
+2661,amulware,6
+2662,Causal Bit Games Inc.,6
+2663,Siege Camp,7
+2664,BlankMediaGames,10
+2665,Fastermind Games,4
+2666,Eastasiasoft Limited,7
+2667,Beyond-Limits-Games,9
+2668,PiedPipers Team,6
+2669,STVR,6
+2670,Tutorial Boss,6
+2671,Endeavor One Inc.,10
+2672,Mi-Clos Studio,7
+2673,Gnomic Studios,2
+2674,David Erosa,3
+2675,Sean Davy,5
+2676,Autotivity Entertainment,2
+2677,Ghost Crab Games,4
+2678,Black Chicken Studios,10
+2679,Zero-K Team,2
+2680,Villa Gorilla,7
+2681,New Life Interactive,10
+2682,Ryan Javanshir,2
+2683,OhNoo Studio,1
+2684,Maltakreuz,6
+2685,Virtual Racing Industries Ltd.,7
+2686,Daniele Giardini,10
+2687,iosoftware,10
+2688,Whalenought Studios,5
+2689,Tazigen Clock,1
+2690,Volens Nolens Games,8
+2691,Atelier 801,5
+2692,Kylotonn,5
+2693,Omniconnection,7
+2694,Rabid Design Studios,7
+2695,Mike Keogh,4
+2696,Garden Knight Games,2
+2697,ROSEVERTE MYSTERY,2
+2698,Dingaling,5
+2699,ROSEVERTE,6
+2700,KURONEKO SOFT,6
+2701,Dylan Loney,3
+2702,SoftStar,2
+2703,Blazing Griffin,2
+2704,Cabygon,4
+2705,Fasaria Works,2
+2706,SuperChop Games,3
+2707,Aesir Interactive,1
+2708,Scott Host,3
+2709,Every Single Soldier,8
+2710,PolarityFlow,5
+2711,Team Chaos,3
+2712,Headless Wizard,7
+2713,Celeris,2
+2714,QuadraTron Games,10
+2715,Spiderwork Games,7
+2716,Radioactive-Software,8
+2717,Evil Aliens,7
+2718,Brainseed Factory,10
+2719,Sergio,10
+2720,Widdly 2 Diddly,7
+2721,Colonthree Enterprises,10
+2722,Fresh3D,9
+2723,Shifty Chair Games,3
+2724,iconical Ltd.,4
+2725,1C Wireless,10
+2726,Fair Play Labs,7
+2727,Battlebard Games,5
+2728,MDNA Games,8
+2729,Handelabra Games Inc.,7
+2730,GTGD,10
+2731,MeDungeon Ltd.,6
+2732,LaserWzzrd Games,2
+2733,Greg Sergeant,6
+2734,Galaxy Gate,3
+2735,Light Echo,2
+2736,Ludo Land,6
+2737,InvertMouse,3
+2738,Zeke Virant,1
+2739,Kikiwik Games,2
+2740,Black Lab Games,8
+2741,Zero Dollarz,10
+2742,Jonas Kyratzes,1
+2743,Squatting Penguins,9
+2744,Black Curtain Studio,4
+2745,Zeiva Inc,2
+2746,PHL Collective,6
+2747,Warfare Studios,6
+2748,Binary Zoo,9
+2749,WisdomTools,10
+2750,Arran Langmead,10
+2751,BSK Games,8
+2752,Zoo Corporation,2
+2753,Hello There AB,4
+2754,Lino Slahuschek,10
+2755,Retrific,8
+2756,HappyGiant,6
+2757,Vidroid,7
+2758,Cardboard Keep,4
+2759,The Bitfather,10
+2760,Vennril,8
+2761,Crashable Studios,10
+2762,Charyb Games,9
+2763,SDEnterNet,7
+2764,DM Media,4
+2765,Icebird Studios,10
+2766,Breaking Fourth,4
+2767,The Future Of Videogames,9
+2768,Black Shell Games,2
+2769,Huy Phan,7
+2770,Relax Minimalism,1
+2771,Moon Spider Studio,7
+2772,Michael Kissinger,10
+2773,Ya2,5
+2774,Red Herring Labs,3
+2775,Green Sauce Games,4
+2776,Fictiorama Studios,2
+2777,Cornfox & Brothers Ltd.,8
+2778,Fragment Production Ltd.,7
+2779,Straight Right,1
+2780,Rock Paper Games,1
+2781,Snails Animation,7
+2782,Spooky Cat,1
+2783,Beti-X,7
+2784,Sim-wings,5
+2785,Dirk Jacobi,6
+2786,Blackfire,9
+2787,Devoga,10
+2788,Lamplight Studios,4
+2789,Sometimes You,9
+2790,Lion Game Lion,8
+2791,Dapper Swine,10
+2792,Burning Dog Media,9
+2793,Artizens,7
+2794,Global Empire Soft,7
+2795,Tom Johnson,2
+2796,N-Fusion Interactive,4
+2797,Wither Studios,5
+2798,KIXEYE,4
+2799,JOYCITY,4
+2800,Dissident Logic,5
+2801,WHOA!,9
+2802,Image Space Incorporated,4
+2803,HuniePot,9
+2804,KintoGames,9
+2805,MP Game Studios,5
+2806,Paranoid Productions,7
+2807,House of Tales,10
+2808,Kuchalu,3
+2809,Studio TeamShuriken,7
+2810,Quarantine Interactive,8
+2811,Defroids team,1
+2812,Bob,4
+2813,Playboom,6
+2814,Wise Owl Studios,8
+2815,Halfbus,4
+2816,AlteredPlanets,1
+2817,2SD,9
+2818,Brain and Nerd Ltd,4
+2819,TRI.G,8
+2820,David Newton,6
+2821,Random Seed Games,8
+2822,Nicolas Pierre-Loti-Viaud,8
+2823,Johan Aronsson,3
+2824,MGP Studios,3
+2825,Fancy Fish Games,3
+2826,Carmine T. Guida,1
+2827,Jake Huhman,2
+2828,Alex Jedraszczak,8
+2829,Momiji Studios,9
+2830,Ogopogoid Entertainment,3
+2831,Don Whitaker,3
+2832,Lei,3
+2833,Brian Cullen,9
+2834,SeattleEgg,4
+2835,Pixellore Inc,7
+2836,Fellstrike Games,6
+2837,Chris McFarland,8
+2838,ZackBellGames,8
+2839,JAVELIN OÜ,4
+2840,David Teruel,5
+2841,Peter Hrdy,4
+2842,Sun-Studios,9
+2843,Matthew Jennings,3
+2844,Immunity Studios,4
+2845,DarkArts Studios,2
+2846,Running Pillow,1
+2847,Orangepixel,7
+2848,Bytebin,4
+2849,Desktop Daydreams Studios,7
+2850,Rectangle,3
+2851,Snipefish Entertainment,5
+2852,"""The Conjurers Tower""",9
+2853,Backward pieS,4
+2854,4-Panel Footprint,9
+2855,Eggcode,7
+2856,Argonauts Interactive,3
+2857,Strategiae,5
+2858,Rendal Studio,1
+2859,"""Mikeypoos Games""",9
+2860,Brucefilm,10
+2861,Hyde Games,7
+2862,Battenberg Software,10
+2863,Leslaw Sliwko,5
+2864,Guin Entertainment,3
+2865,Artisiti,1
+2866,Greeny Games Studio,5
+2867,Pyrosphere,4
+2868,Lesley Dodd,8
+2869,Pringo Dingo Games,7
+2870,HCP Games,9
+2871,SERIOUS*IMPACT WORKS,2
+2872,Tyrone Hunt,9
+2873,Anteater Games,6
+2874,Outer Grid Games LLC,2
+2875,Zanrai Interactive,7
+2876,Xenon,2
+2877,Artur Games,8
+2878,Unterrainer Informatik OG,3
+2879,Conor Strejcek,7
+2880,Fungameco Ltd,6
+2881,Forcequitapplicatons,2
+2882,Mark Chong,5
+2883,Loading Home,8
+2884,Locomotivah,6
+2885,Eat Create Sleep,10
+2886,Invictus Games Ltd.,3
+2887,FirstForever Studios,7
+2888,Henchman & Goon,6
+2889,Playful Art,8
+2890,Steel Crate Games,3
+2891,Red Head Games,6
+2892,Turtle Rock Studios,9
+2893,GAME FREAK inc.,5
+2894,Tyler Rogers,6
+2895,Creatio 49,9
+2896,NuclearFirecracker,7
+2897,Destructive Creations,6
+2898,Sillysoft Games,5
+2899,First Class Simulations,6
+2900,Major Games,3
+2901,FirstForever,3
+2902,Squishy Games,2
+2903,Supreme Clans Entertainment,5
+2904,Atrax Games,3
+2905,Piranha Games Inc.,9
+2906,Lazy Bum Games,2
+2907,Brainshape Games,2
+2908,DGform,7
+2909,Flying Mollusk,10
+2910,Anyland + Manyland,4
+2911,Still Running,5
+2912,Leonard Menchiari,1
+2913,earrgames,1
+2914,Hanabira,2
+2915,Blowfish Studios,7
+2916,Brushfire Games,3
+2917,Machine 22,7
+2918,Thomas Christof,8
+2919,Magic Pants,4
+2920,SecuritySession.com,5
+2921,Eyemobi Ltd.,2
+2922,David Stark,8
+2923,GameUS Inc.,1
+2924,Zeno Rogue,9
+2925,Triangle Studios,8
+2926,Quadro Delta,7
+2927,Bail! Enemy Jet!,6
+2928,NextGen Pants,3
+2929,Brain Seal Ltd,8
+2930,LucasGame,9
+2931,Christopher Cinq-Mars Jarvis,8
+2932,Crystal Dragon,1
+2933,Elder Game,1
+2934,Patagoniart,7
+2935,MovingBlocks,6
+2936,Total Monkery,8
+2937,Jundroo,8
+2938,baKno Games,3
+2939,AWE Games,7
+2940,Peter Hann,6
+2941,Good Day Games,6
+2942,Vital Games Ltd,6
+2943,StephenAllen,1
+2944,ZeroBit Games,4
+2945,StaudSoft,4
+2946,BBQ Games,7
+2947,Alawar Dreamdale,1
+2948,Them Games,4
+2949,Nevosoft,5
+2950,Ivy Games LLC,7
+2951,Pixel Elephant,7
+2952,MAGICS,2
+2953,Tort,4
+2954,IMGN.PRO,4
+2955,Buffalo Vision,5
+2956,Luden.io,4
+2957,Enzo Whyte,7
+2958,Cat5Games,8
+2959,Lawrence Russell,5
+2960,Creobit,9
+2961,Jane Rachel Whittaker,9
+2962,Dot Dream,6
+2963,Acido Cinza,3
+2964,Pepi Games,3
+2965,Offpeak Games,5
+2966,Tactic Studios Inc.,7
+2967,Allicorn Games,6
+2968,Solecismic Software,7
+2969,Guru Games,8
+2970,Fallen Tree Games Ltd,7
+2971,bracketgames,9
+2972,MOONSTONE,6
+2973,Code}{atch,8
+2974,Grey Dog Software,4
+2975,Photon Arena,9
+2976,Twice Circled,9
+2977,Emmanuel Salva Cruz,2
+2978,Nefarious Dimensions Interactive Games,8
+2979,Miguel Lleras,2
+2980,OBLONE Software,2
+2981,Thomas Schreiter,5
+2982,Fluffy Kitten Studios,7
+2983,Ayrik,2
+2984,Robert Dahlenburg,10
+2985,Wyse Games,4
+2986,Moonlight Mouse,4
+2987,Great Cogs,8
+2988,Psytec Games Ltd,7
+2989,Dingo Games,7
+2990,Chaos Industries,5
+2991,Akçay Karaazmak,5
+2992,Charybdis Ltd,5
+2993,Home Groan Games,2
+2994,KPy3O,5
+2995,Skobbejak Games,2
+2996,Fifth Column Games,10
+2997,Triple Eh? Ltd,7
+2998,Specialbit Studio,4
+2999,Frontwing,9
+3000,Hanaji Games,2
+3001,Echo Games,10
+3002,Sinister,10
+3003,Pocket Games,7
+3004,Synset,1
+3005,Spiderling Studios,1
+3006,Page 44 Studios,4
+3007,Squirrelbot Games,3
+3008,Studio Wildcard,3
+3009,Spasman Games,2
+3010,TCHOW,4
+3011,DropDGames,2
+3012,Mayhem Games USA,6
+3013,Fermenter Games,2
+3014,Dust Scratch Games,2
+3015,Rainbow Games,6
+3016,Imigea Ltd,10
+3017,Jan Zizka,4
+3018,Red Dwarf Games,8
+3019,Reperio Studios,9
+3020,Heliocentric Studios,9
+3021,Small Town Studios,3
+3022,Brandon Cassata,10
+3023,Weird and Wry,10
+3024,Mido Basim,7
+3025,Blaze Epic,8
+3026,Red River Studio,2
+3027,Mana Games,10
+3028,Web Interactive Solutions,1
+3029,NukGames,3
+3030,Cylne,4
+3031,Sandbox Games,7
+3032,Felix Wunderlich,7
+3033,Raxi Petrov,8
+3034,Peter Lacalamita,4
+3035,peakvox,6
+3036,Retora Games,1
+3037,Hammerspace Games,9
+3038,Windmill Games,7
+3039,Colossal Order,6
+3040,Clarus Victoria,1
+3041,Ignition Games Inc.,6
+3042,Dark Quarry Games,4
+3043,Jerseyware Gaming,5
+3044,Dez,10
+3045,PolyKnight Games,3
+3046,Burnt Fuse,4
+3047,HyperDrive Games,4
+3048,Pixelnest Studio,8
+3049,Sim155 Limited,8
+3050,Sheado.net,7
+3051,Super Mega Team,1
+3052,Deco Digital,1
+3053,Alonso Martin,6
+3054,Sileni Studios,9
+3055,Philip Royer,8
+3056,Alder Games,1
+3057,Dizzy Media,4
+3058,Back To Basics Gaming,5
+3059,LiveItGames LLC,5
+3060,Studio Forge Ltd,3
+3061,高考恋爱委员会,2
+3062,Crimson Owl Studios,3
+3063,Crian Soft,5
+3064,Thorsten Schleinzer,10
+3065,Super Rock Games Limited,7
+3066,IF Games,2
+3067,Snowrunner Games,5
+3068,rest.less Games,10
+3069,Holgersson Entertainment,10
+3070,Old Moon,6
+3071,Blossom Games,10
+3072,Fractal Alligator,6
+3073,Smoodlez,7
+3074,Spiele-Palast GmbH,10
+3075,Behtam Developer,10
+3076,Arctic Hazard Game Studio a/s,9
+3077,Dedication Labs,9
+3078,Mercury Stone,3
+3079,Google,5
+3080,Nonadecimal Creative,1
+3081,4Bit Games,3
+3082,CCCP,1
+3083,RunServer,1
+3084,JoyBits Ltd.,2
+3085,Anothink,3
+3086,Fantasy Flight Games,7
+3087,Denis Esie,8
+3088,Shield Break Studios,10
+3089,Praxia Entertainment Inc,6
+3090,Mindwedge,8
+3091,Gua,1
+3092,AGO Games,4
+3093,Millenium Project Enterprises,3
+3094,DarkStar Games,5
+3095,Piao Jingfu,2
+3096,pheenix93,5
+3097,Brilliant Blue-G,9
+3098,iEntertainment Network Inc,8
+3099,Tiny Colossus,5
+3100,MyDream Interactive,8
+3101,Anvate Games,6
+3102,Play-Em,5
+3103,Gamieon,3
+3104,Manifesto Game Studio,10
+3105,Instant Kingdom,10
+3106,Mixamo,5
+3107,Viperante,3
+3108,Galactic Bits,1
+3109,Fat Loot Games,1
+3110,Alice & Smith,7
+3111,Eridani Games,1
+3112,Nuclear Strawberry,1
+3113,Matt Edzenga,9
+3114,Littlewitch,10
+3115,Erotes Studio,9
+3116,Pixel Theory Games,7
+3117,Morozov Sergey,6
+3118,Craze Creative Studios,5
+3119,Super Systems Softworks,4
+3120,Ian Isaro,4
+3121,+Mpact Games,10
+3122,Fuzzy Wuzzy Games Inc.,10
+3123,Explorasaurus Studios,4
+3124,Yohan Launay,5
+3125,Baller Industries,1
+3126,UnexEvo,8
+3127,Jamhammer Games Inc.,6
+3128,T3 Entertainment,5
+3129,Hunter Hamster,1
+3130,Five Cubed,9
+3131,Kajak Games,5
+3132,m07games,10
+3133,CS Squared Games,8
+3134,Midnight Oil Games,8
+3135,Arvi Teikari,9
+3136,Exis,1
+3137,Moment Studio,7
+3138,Rocksteady Sudios,10
+3139,Giant Spacekat,5
+3140,Lee Page,5
+3141,The Third Floor,5
+3142,MPR ART Hallucinations,8
+3143,Visual Imagination Software GbR,2
+3144,PIXYUL,7
+3145,Dingo Dango,8
+3146,GoodVole,7
+3147,Yokcos,10
+3148,Camshaft Software,5
+3149,L＆K Co.,7
+3150,Awfully Nice Studios,8
+3151,Kasaa Solution,1
+3152,Gametek Brasil,5
+3153,Vionsoft,5
+3154,Guard Crush,7
+3155,Cococucumber,7
+3156,Luminy Studios,2
+3157,Cantina Games and Entertainment,8
+3158,Gato Salvaje Studio,3
+3159,Grey Alien Games,8
+3160,Ellada Games,7
+3161,Reactor Zero,2
+3162,Games With Dragons In,2
+3163,Kfuchi,4
+3164,C63 Industries,10
+3165,Lord Eglathia,3
+3166,Abnormal Software,3
+3167,Renegade Sector Games,6
+3168,Beast Games,8
+3169,TB Games,7
+3170,Jötunn Games,8
+3171,Neckbolt,7
+3172,FallenMaster,2
+3173,Cheesy Holes,4
+3174,CyberphobX,10
+3175,Coty Getzelman,1
+3176,Hellscape Games,3
+3177,Theory Georgiou,7
+3178,Sanctum Games,3
+3179,My Owl Software,5
+3180,Sami Maaranen (creator),4
+3181,Beach Interactive,5
+3182,Milan Kazarka,7
+3183,Daniel Jonathan Bourke,5
+3184,Maddox Games,1
+3185,Funatics Software,2
+3186,Gaming Corps AB,9
+3187,BANDAI NAMCO Studio Inc.,5
+3188,FOAM Entertainment,3
+3189,Here Be Dragonz,4
+3190,Team Chesster,8
+3191,Upper Class Walrus,2
+3192,G5 Software,4
+3193,Gromada,3
+3194,TEAM101,10
+3195,Nuligine,6
+3196,SIM720,8
+3197,G-OLD,2
+3198,Fully Bugged,1
+3199,A Sharp,9
+3200,Double Zero One Zero,9
+3201,Broken Window Studios,1
+3202,Three Phase Interactive Pty Ltd,1
+3203,Farlight Games Industry,3
+3204,Starfall Studios,6
+3205,House On Fire,2
+3206,Stephane Graziano,3
+3207,Reborn Games,9
+3208,Lost Spell,2
+3209,ebi-hime,9
+3210,Big Green Pillow,7
+3211,Virgin Interactive Entertainment,10
+3212,Crytivo,2
+3213,Nekomura Games,9
+3214,TaxSoft,8
+3215,Mechabit Ltd,4
+3216,Kidalang,7
+3217,MixedBag Srl,5
+3218,ImCyan,7
+3219,DSK Studios Pvt. Ltd,8
+3220,it Matters Games,1
+3221,Orbital Knight,9
+3222,Anarchy Enterprises,8
+3223,Slipgate Ironworks™,6
+3224,Jorge Lima,8
+3225,S. L. Clark,10
+3226,Creepy Cute,10
+3227,Substantial,4
+3228,Nina Freeman,10
+3229,Rosebud Games,7
+3230,Point2Point Entertainment,8
+3231,Automata Source,10
+3232,Alexey Davydov,1
+3233,HandyGames,6
+3234,Bearded Bird Game Studio,10
+3235,Fun Infused Games,7
+3236,KT Racing,6
+3237,Nightly Studios,3
+3238,Jarbit,3
+3239,Nerial,1
+3240,Four Quarters,6
+3241,CashcowGames,7
+3242,CRAZYDIAMOND CO.,8
+3243,BitFinity,5
+3244,Lucasfim,9
+3245,Pwnee Studios,4
+3246,Zandel Media,10
+3247,Rumpus,5
+3248,Ethereal Darkness Interactive,8
+3249,Aaron Arcand,9
+3250,Stache Studios,8
+3251,mamoniem,1
+3252,ValuSoft,4
+3253,Dune Clockidy,1
+3254,Titan Forged Games,5
+3255,Iceflake Studios,10
+3256,Finalboss game studio,2
+3257,Infinite Dreams,8
+3258,Javelin OÜ,3
+3259,Ars Creativa,10
+3260,Modern Paradise Media Inc.,9
+3261,Drowning Monkeys Games,6
+3262,Donut Games,10
+3263,Lucasfilm,4
+3264,Hoobalugalar_X,4
+3265,Anarchy Interactive,1
+3266,The Department of Silly Stuff,7
+3267,Calappa Games,9
+3268,Totally Games,2
+3269,Evan Tognotti,4
+3270,Crazy Goat Games,10
+3271,Suppressive Fire Games,9
+3272,Critical Bit,4
+3273,Razbury Games,5
+3274,14Dimension Enterprise,3
+3275,LLC Intenzibne,3
+3276,Lukas Jaeckel,9
+3277,HYDEZEKE,6
+3278,Innervision Games,1
+3279,Storm Isle Productions,7
+3280,jemchicomac,9
+3281,Cherry Co. Studios,8
+3282,Twelve Tiles,8
+3283,EfrenStudios,8
+3284,AV media lab,8
+3285,1337 & Senri AB,5
+3286,Alabeo,5
+3287,Top3Line,3
+3288,Finji,2
+3289,Chashu Entertainment,8
+3290,MTB Design Works,8
+3291,Tonguç Bodur,4
+3292,GNeguceanu,1
+3293,Milkbag Games,7
+3294,Vostok Games,5
+3295,Ape Law,3
+3296,Fixpoint Productions,7
+3297,David Wehle,2
+3298,Valsar,3
+3299,Starship Studio,4
+3300,Unicube,2
+3301,Orlyapps,3
+3302,Lohika Games,8
+3303,radiostatic,7
+3304,Da Picky Monkey,8
+3305,Icy Donut,2
+3306,Hooligans Entertainment,1
+3307,7 Soft Pillows,2
+3308,Nayma Software,2
+3309,bitter sweet entertainment,10
+3310,A Stranger Gravity,8
+3311,DTF games,10
+3312,Arise,7
+3313,Brainchild,3
+3314,Alex Francois,9
+3315,Drool,7
+3316,Monogon Games,10
+3317,Chris Sawyer,5
+3318,Nostalgia,2
+3319,Stamina-Games,2
+3320,Underdog Games,9
+3321,Pinokl Games,4
+3322,ektomarch,8
+3323,White Rabbit,1
+3324,Lag Studios,2
+3325,Kiritsu Games,3
+3326,LearnDistrict Inc.,8
+3327,Astrosimer,2
+3328,RedPain,8
+3329,CRACKED PISTON LLC 2014,10
+3330,David Mulder,9
+3331,FS2Crew,2
+3332,Tesseract Interactive,3
+3333,Walter Machado,8
+3334,Double Stallion Games,4
+3335,Poorwill Games,6
+3336,Giorgi Abelashvili,4
+3337,Talentplace,9
+3338,Shining Pixel Studios,10
+3339,Craig Gibbs,3
+3340,nornware AB,6
+3341,Michael Lückgen,5
+3342,Hungry Planet Games,9
+3343,NIMONIX,3
+3344,Kittehface Software,1
+3345,Fern Nigro,3
+3346,The Stork Burnt Down,2
+3347,RIP Studios LLC,10
+3348,Viewpoint Games,1
+3349,Luis Ruiz,7
+3350,Alda Games,2
+3351,Timedrop Studios,10
+3352,KaleidoGames,2
+3353,Fivang,1
+3354,reMaginarium,4
+3355,Sinister Design,3
+3356,Vision Riders Entertainment,4
+3357,Eric Hornby,2
+3358,ColloseusX,5
+3359,Access Games,8
+3360,Maschinen-Mensch,5
+3361,3D Realms (Apogee Software),5
+3362,JAM Productions,6
+3363,Redwood Games,4
+3364,Animation F/X,4
+3365,Remedy,7
+3366,Interactive Binary Illusions,8
+3367,Moonlite Software,6
+3368,Cygnus Studios,1
+3369,Beavis Soft,2
+3370,Argo Games,2
+3371,Scenario Software,7
+3372,Cyber Rhino Studios,7
+3373,Lupiesoft,5
+3374,Duckbridge,6
+3375,Guerrilla Bandit,3
+3376,Toys for Bob,7
+3377,Legend Entertainment,9
+3378,marbenx,1
+3379,Atomicom Limited,10
+3380,Hunter Gatherer Games,1
+3381,Prexen Studios,2
+3382,Undead Yeti Software,10
+3383,Tymon Zgainski,8
+3384,Triskell Interactive,7
+3385,Singe Studio,7
+3386,Frontier Developments,7
+3387,Freshly Squeezed,10
+3388,Team Eyepatch,1
+3389,Peltast Software,6
+3390,Presto Studios,2
+3391,bluffman,10
+3392,Cosmic Logic,6
+3393,Cowardly Creations,6
+3394,Infogrames,4
+3395,Interplay Entertainment Corp.,4
+3396,Klonk Games,2
+3397,Burrito Studio,9
+3398,Andrii Vintsevych,2
+3399,Team Scynix,10
+3400,Team Isolation,7
+3401,Swinfjord-Games,10
+3402,Curtis Holt,8
+3403,A2A Simulations,7
+3404,Just Flight,5
+3405,Estelion,6
+3406,OMNIDREAM CREATIONS,4
+3407,Tobop Productions,7
+3408,Hangar 13,8
+3409,Absorb Reality,3
+3410,Fugitive Games,9
+3411,EmpI Studios,7
+3412,Vertex Pop,7
+3413,Gamestarters,9
+3414,SpookyFish Games,1
+3415,Frogsong Studios,6
+3416,Isaac Nichols,4
+3417,Tiny Utopia,10
+3418,Red Team Games,7
+3419,Moppin,2
+3420,Playtonic Games,6
+3421,Speelbaars,5
+3422,Tigerish Games,6
+3423,Zeenoh,9
+3424,AndrewDrumov,2
+3425,Virtual Basement LLC,3
+3426,SmashMouth Games Ltd,2
+3427,Stun Games,8
+3428,Magical Hackers,5
+3429,Playtap Games,2
+3430,Risen Phoenix Studios,6
+3431,Dan & Gary Games,8
+3432,Le Cartel Studio,5
+3433,Hothouse Creations Ltd,5
+3434,Immersive Douro,6
+3435,Megastorm Games,7
+3436,Dark Fox,4
+3437,System Era Softworks,4
+3438,Game Studio Abraham Stolk Inc.,5
+3439,Flying Cafe for Semianimals,1
+3440,Dolores Entertainment,9
+3441,Vovoid Media Technologies AB,1
+3442,Artur Mandas,6
+3443,Retro Yeti Games,4
+3444,MK-ULTRA Games,6
+3445,Ed Curtis-Sivess,10
+3446,8Floor,5
+3447,Ulysses Games,8
+3448,Alawar Stargaze,3
+3449,Toyman Interactive,2
+3450,Yustas Game Studio,3
+3451,Roope Tamminen,3
+3452,Aqualuft Games,6
+3453,Little Games Company,8
+3454,Thylacine Studios,9
+3455,Wise Dad Games,6
+3456,RadiationBurn,10
+3457,Christopher Yabsley,6
+3458,bitshift,6
+3459,House House,10
+3460,Regimental Chess Dev.,8
+3461,Bare Mettle Entertainment,7
+3462,SNK Playmore,4
+3463,SilentFuture,1
+3464,Coredumping,8
+3465,White Cat,4
+3466,Steamroller Studios,7
+3467,Killmonday Games AB,1
+3468,Casual Box Games,8
+3469,Ben Lam,10
+3470,Made With Monster Love,2
+3471,Pillow Pig Games,8
+3472,Z-Software GmbH,6
+3473,Stroboskop,5
+3474,Crowbar Collective,6
+3475,Emberheart Games,2
+3476,SmartArt Game Studio,4
+3477,devFluid,5
+3478,Michael J. Moffitt,4
+3479,Parabox Games,4
+3480,Egamea Game Studios,10
+3481,Split Polygon,5
+3482,NeoNight,6
+3483,Clever Plays,2
+3484,devotid,5
+3485,Mint Age Studios,9
+3486,Gregory Avery-Weir,2
+3487,Michael Flynn,3
+3488,Whalebox Studio,3
+3489,Gabriel Interactive,10
+3490,Nami Tentou,5
+3491,Daylight Studios,10
+3492,Liens,9
+3493,TEAM TANDS PLUS,2
+3494,Caipirinha Games,8
+3495,Bigosaur,8
+3496,HexWar Games Ltd,9
+3497,Magic Sandbox,10
+3498,Playsaurus,5
+3499,Lakeview Interactive LLC,5
+3500,Tlön Studios,3
+3501,klobit LLC,9
+3502,Jordan Sendar,7
+3503,Giant Enemy Labs,2
+3504,Innomen Team,3
+3505,TRIANGLE SERVICE,8
+3506,Byte-UP Co.,8
+3507,John Wizard,1
+3508,Red Beat,6
+3509,Mission Aware Technologies,10
+3510,Lionheart Creations,1
+3511,FeelThere,8
+3512,TakeFlight Interactive,5
+3513,HiFi Technologies,2
+3514,Midian Design,5
+3515,Benjamin Famiglietti,7
+3516,Mindprobe Labs,8
+3517,Sparkypants Studios,7
+3518,Eerie Games,10
+3519,Kronosaur Productions,2
+3520,blizzy Games,10
+3521,KITATUS STUDIOS,1
+3522,Dan FitzGerald,6
+3523,Carlotta Tatti,6
+3524,Dustin Gunn,4
+3525,Peculiar Games,8
+3526,Novelline,5
+3527,Urbanscan,1
+3528,JhonGames,7
+3529,Chris Mailloux,5
+3530,Jake Olson,8
+3531,Seven Sails Games,4
+3532,Rhema Press,9
+3533,Stephane Bottin,6
+3534,Silver Goblet Games,10
+3535,DeXP,5
+3536,Patrick God,1
+3537,JAMgames,6
+3538,Adam Mowery,4
+3539,REFUGIO3D®,5
+3540,Synter Games,7
+3541,Parabole,3
+3542,cybercritics,3
+3543,Panic Ensues Software,2
+3544,Jeff Trier,5
+3545,Questtracers,7
+3546,Morphodox Studios,4
+3547,Shokunin,7
+3548,HKFiftyOne Games,4
+3549,Overhype Studios,4
+3550,Digital Entertainment,8
+3551,Thomas Gwaltney,1
+3552,Team Fractal Alligator,1
+3553,OM ENTERTAINMENT,2
+3554,Joycity,3
+3555,Witching Hour Studios,5
+3556,undef,2
+3557,Perro Electrico,3
+3558,Shenandoah Studio,4
+3559,J. King-Spooner,4
+3560,Prelusion Games,6
+3561,Reset Games Ltd,7
+3562,VoxelStorm,8
+3563,ACE MADDOX,3
+3564,Nonlinear,9
+3565,tjern,10
+3566,Team Kryll,1
+3567,Kelkafa Studios,9
+3568,Cat Rabbit,3
+3569,Retronic Games,2
+3570,Garage Monkey Studio,8
+3571,Studio 397,2
+3572,Digits Crossed Interactive,8
+3573,LionSword,9
+3574,Bolder Games,9
+3575,Rage Monster Games,4
+3576,Pipliz,8
+3577,Epic LLama,3
+3578,Ben Aprigliano,9
+3579,Ambiera e.U.,3
+3580,Bad Seed,1
+3581,Code Club AB,9
+3582,Dangerous Derk Interactive,6
+3583,IronDrop Studios,10
+3584,Circletempo,3
+3585,Ludomo Gamestudio,2
+3586,PAXINOMA aka Imperial North Music Agency,6
+3587,ElevenSeventy,4
+3588,Hammer Glass Studio,7
+3589,CastleAbra Studios,3
+3590,Peter Gutenko,2
+3591,Rocket Vulture,3
+3592,Enigami,4
+3593,Totem Studio,9
+3594,Bulldog Interactive,4
+3595,DreamsSoftGames,9
+3596,Pomera Studios,3
+3597,Vasily Voronkov,2
+3598,Honor Code,8
+3599,Daedalic Studio West,2
+3600,Pistachi Studio,1
+3601,UD,4
+3602,Ninai Games,4
+3603,Pixel Prophecy,10
+3604,TripleBrick,10
+3605,vikingfabian.com,4
+3606,SimplexGameStudio,1
+3607,GamePhase,4
+3608,Wizard Fu,7
+3609,The Pompous Pixel,2
+3610,Michaela Laws,7
+3611,Andrew Willman,8
+3612,"""David OBoyle""",9
+3613,magnussoft,1
+3614,Dark Amber Softworks,7
+3615,Dwarves Might Fly,9
+3616,Strangely Interactive Ltd,4
+3617,Soul Forge,4
+3618,Disaterpeace,10
+3619,Rogue Star,4
+3620,Jon Harwood Games LLC,10
+3621,HYPYRYL,4
+3622,Dry Cactus,5
+3623,Team Cherry,1
+3624,Maciej Targoni,1
+3625,Zhoori Maang Entertainment,7
+3626,Autobotika,8
+3627,Soloweb Studios,10
+3628,BIT-GEN,6
+3629,UNIT9,8
+3630,khos85,8
+3631,Gingerbred,10
+3632,Chocoarts,7
+3633,"""Kiroo Games""",8
+3634,desunoya,5
+3635,Studio Monolith,5
+3636,Matrix Games,6
+3637,Noio,4
+3638,Zeritum,3
+3639,Ketos Games,6
+3640,Radical Fish Games,2
+3641,Robot Gentleman,6
+3642,Sam Barlow,5
+3643,Spooky Doorway,8
+3644,Antagonist,10
+3645,Vladimir Kudelka,6
+3646,Ubisoft Quebec,5
+3647,2 players,1
+3648,K Bros Games,6
+3649,dustinaux,3
+3650,Lunar Ray Games,7
+3651,Nippon Ichi Software,1
+3652,RAC7 Games,9
+3653,Cybernate,9
+3654,Zed-ex,6
+3655,Ben Hendel-Doying,10
+3656,Yang Sun,1
+3657,Digital Dawn Studios,7
+3658,tinyBuild,8
+3659,Varkian Empire,1
+3660,Serious Games Interactive,5
+3661,Pixel Barrage Entertainment,6
+3662,Svajūnas Žemaitis,3
+3663,Emad,8
+3664,Mad Goblin Games,3
+3665,AGC,8
+3666,Drixy Games,6
+3667,Manipulation Machine,1
+3668,PlazSoft,4
+3669,MachineSpirit,10
+3670,Steel Mantis,10
+3671,Seattletek,10
+3672,Imran Arafat,8
+3673,Jeroen van Oosten,6
+3674,Big Fat Simulations Inc.,3
+3675,Retrocade.net,2
+3676,Pen and Sword Games,1
+3677,Random Thoughts Entertainment,5
+3678,Maggie McLean,5
+3679,NorbSoftDev,8
+3680,Professor Why,4
+3681,Blacksea Odyssey,2
+3682,Scarecrow Arts,7
+3683,Gateway Interactive,4
+3684,NotGames,7
+3685,Fernando Paulo,7
+3686,Arcanity Inc,3
+3687,Burst,10
+3688,q-bit Games,2
+3689,Flaming Pumpkin Ltd,2
+3690,Daniel Fernandez Chavez,7
+3691,Charlie Oscar Lima Tango Interactive Entertainment,10
