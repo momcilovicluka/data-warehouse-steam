@@ -10,7 +10,7 @@ developers_df = pd.read_csv('/home/luka/git/momcilovicluka/seds-projekat/SQLImpo
 publishers_df = pd.read_csv('/home/luka/git/momcilovicluka/seds-projekat/SQLImports/publisher.csv')
 
 # Extract relevant columns from games_df
-result_df = games_df[['appid', 'name', 'release_date', 'price', 'achievements', 'developers', 'publishers']].copy()
+result_df = games_df[['appid', 'name', 'release_date', 'price', 'rating', 'achievements', 'developers', 'publishers']].copy()
 
 # If the game is of type dlc, store the appid of the basegame as gameid, else set it to 0
 result_df['gameid'] = games_df['fullgame'].str.extract(r"'appid': '(\d+)'", expand=False).fillna(0)
@@ -31,13 +31,15 @@ result_df = pd.merge(result_df, publishers_df[['id', 'name']], how='left', left_
 result_df = result_df.rename(columns={'id': 'publisher_id'})
 result_df = result_df.drop(['name'], axis=1, errors='ignore')
 
-
 # Remove rows with NaN values in 'developer_id' and 'publisher_id' columns
 result_df = result_df.dropna(subset=['developer_id', 'publisher_id'])
+
+# round ratings to 2 decimal places
+result_df['rating'] = result_df['rating'].round(2)
 
 # Convert 'developer_id' and 'publisher_id' to integers
 result_df[['developer_id', 'publisher_id', 'achievements']] = result_df[['developer_id', 'publisher_id', 'achievements']].astype(int)
 
 # Remove unnecessary columns and save the result to a new CSV file named games.csv
-result_df = result_df[['appid', 'name_x', 'release_date', 'price', 'achievements', 'developer_id', 'publisher_id', 'gameid']]
+result_df = result_df[['appid', 'name_x', 'release_date', 'price', 'rating', 'achievements', 'developer_id', 'publisher_id', 'gameid']]
 result_df.to_csv('/home/luka/git/momcilovicluka/seds-projekat/SQLImports/game.csv', index=False)
