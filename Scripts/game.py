@@ -13,7 +13,7 @@ publishers_df = pd.read_csv('/home/luka/git/momcilovicluka/seds-projekat/SQLImpo
 result_df = games_df[['appid', 'name', 'release_date', 'price', 'rating', 'achievements', 'developers', 'publishers']].copy()
 
 # If the game is of type dlc, store the appid of the basegame as gameid, else set it to 0
-result_df['gameid'] = games_df['fullgame'].str.extract(r"'appid': '(\d+)'", expand=False).fillna(0)
+result_df['gameid'] = games_df['fullgame'].str.extract(r"'appid': '(\d+)'", expand=False)
 
 # Extract the first entry from developers and publishers columns
 result_df['developers'] = result_df['developers'].str.split(',').str[0]
