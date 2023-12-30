@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9BF4C9AE-388B-F59E-674B-471A441E7DEF" name="Publisher">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>C35EB514-B8A5-50DF-0773-6E9C4E5E820B</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="6538EC61-8D84-7021-02EA-B448A3EE4A04">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>522FA08C-AF5A-36C5-FC79-B9C3939402E1</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="2523B475-ED7B-34C4-7A96-051B93BCA8A7">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>52E6DF7B-6617-3505-A062-1AE14671BF45</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4336D5D5-9C1D-C069-7B5C-B100B6A9EB35" name="Publisher_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>ECC1640A-5206-042B-6878-C4DC649F9370</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6538EC61-8D84-7021-02EA-B448A3EE4A04"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -28,20 +28,6 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="isBundle" id="2A88CF7F-3593-1F2A-E28B-C1F65FA3D64B">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 14:36:21 UTC</createdTime>
-<ownerDesignName>DWbaza</ownerDesignName>
-<importedID>2991DB95-08CD-A834-0154-96A0374C8FF1</importedID>
-<engineerTo>
-<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT006</logicalDatatype>
-<dataTypeSize>1 BYTE</dataTypeSize>
-<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="dateOfPurchase" id="60106115-0420-9D4B-3B76-2731F662540B">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 14:36:21 UTC</createdTime>
@@ -63,6 +49,7 @@
 <engineerTo>
 <item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
 </engineerTo>
+<nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT026</logicalDatatype>

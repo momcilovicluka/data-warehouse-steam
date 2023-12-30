@@ -79,18 +79,6 @@
 <dataTypeSize>50 BYTE</dataTypeSize>
 <ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="countryId" id="7C968170-46E7-8A24-2F2E-C9D424D8DD3A">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 12:39:00 UTC</createdTime>
-<ownerDesignName>SRCbaza</ownerDesignName>
-<engineerTo>
-<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="id1" id="51302640-2A2E-CE36-7058-F85DC3801601">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 12:40:47 UTC</createdTime>

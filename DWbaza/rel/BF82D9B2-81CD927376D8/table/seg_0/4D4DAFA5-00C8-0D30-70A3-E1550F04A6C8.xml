@@ -1,0 +1,100 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4D4DAFA5-00C8-0D30-70A3-E1550F04A6C8" name="Purchase">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>52730981-C0EE-9CFE-F9AF-B0B9EDB81760</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="38674548-61BC-DAC6-D7DF-CABDA429932C">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>F84A48AE-B940-0ED0-45C2-0DC13593B989</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dateOfPurchase" id="442EB4F3-59B6-5EE3-762B-4F2FC3E794DF">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>60106115-0420-9D4B-3B76-2731F662540B</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalPrice" id="0812FF9D-678C-FA5B-CD80-15B499F1FE55">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>D59D8882-D210-FA57-C896-81651B6CEE0D</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="User_id" id="AB0B920F-778B-A71F-3063-CDB6EAF2DFD0">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>E8173BCD-D3CC-EE47-E0B3-A7663163A41E</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7ABA69D5-55A9-51A1-7718-7C3CE8029781" referredColumn="A190AFBE-5E41-F618-38F6-CE8FB4E8942B"/>
+</associations>
+</Column>
+<Column name="purchasedWithWallet" id="0F6D78D7-EB05-5AFA-87B6-8F2CD3D21C0B">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>3D6BEB9F-7EAA-15FF-E4D2-6E1C79C11881</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1 BYTE</dataTypeSize>
+<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B0F7F43F-0718-6CF4-0C92-9D62EA43D8E2" name="Purchase_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>F8F6B65C-8468-D410-953B-F52A1446DCDF</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="38674548-61BC-DAC6-D7DF-CABDA429932C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BEDFF26E-52D1-B00E-2E57-602C72AEECCD" name="Purchase_User_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>3D21C8FA-BF5A-A45A-38E6-D4FF823119EB</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="AB0B920F-778B-A71F-3063-CDB6EAF2DFD0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

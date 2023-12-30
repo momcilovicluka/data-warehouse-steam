@@ -1,0 +1,89 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="CFD5C948-4BDE-43DA-5296-C6A16631FC9C" name="PurchaseItem">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>739CC8DA-D44F-FDEF-0EBE-6987CEE7BC66</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="EABCFBC6-A03D-D89C-FB77-AE20E3246574">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>7BB2692B-468D-7C31-67F7-8B3BEA99EF2F</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Game_id" id="DD50BE74-72A0-2423-07F0-837ADD8F55DA">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>491D1A9F-946D-F926-B5EF-DA9EB55F0879</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A1AA2BE4-576D-348B-C817-4A88E1E11772" referredColumn="FE7CF969-E1F5-0945-9F96-5D33F37407DC"/>
+</associations>
+</Column>
+<Column name="Purchase_id" id="7D7A7B44-38DE-99F6-A2FC-3167518A3E9A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>FA3CA267-2271-3C10-4975-F0ACFE122353</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D13F89E4-6784-D46D-90B3-ECBA98630436" referredColumn="3FE05FCC-6446-F3B2-7DDF-9289F266D842"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="46B764A2-3B30-9CE2-D0FD-CD098C9E4784" name="PurchaseItem_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>5E13F8D5-C05D-7B3C-B4DF-A970D12DE501</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EABCFBC6-A03D-D89C-FB77-AE20E3246574"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C1FCF431-6E91-4192-B324-2135CF2CD384" name="PurchaseItem_Game_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>E986300B-755A-6DBE-0693-B0937E95069E</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DD50BE74-72A0-2423-07F0-837ADD8F55DA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="08BD0A49-B710-5FE0-F32F-F060841EC424" name="PurchaseItem_Purchase_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:06:55 UTC</createdTime>
+<generatorID>72BE3FC7-E724-1BE2-3CB7-DD87514A4AB2</generatorID>
+<ownerDesignName>SRCbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7D7A7B44-38DE-99F6-A2FC-3167518A3E9A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

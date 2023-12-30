@@ -1,0 +1,151 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BB389F14-CCDF-D4A1-D9B4-5460CE10EED1" name="CountryStatistics">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>A4778AF7-ED97-B7D5-4232-9F22AD553035</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="317135EC-9F2D-72F1-0B51-297C88DC3E24">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>13197FA1-F393-186A-859D-ED9E182935AF</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="averageWallet" id="EDE69213-3E8C-CB2D-7DA6-E13D80BCAC78">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>B0E2E752-0E48-53EB-9FD3-736E08634BCA</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalGamesSold" id="77A225E4-03B8-8D90-7411-144AAC2415B5">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>94B3AB6E-27F2-7F31-601C-D0316AD7ECC5</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalRevenueSum" id="7854A670-B30D-AFC9-B9C9-DEA992366E04">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>1EF46DE8-1A63-4530-D441-9B6D76796DA3</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>20</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,20,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Country_id" id="5A6A5B8D-B076-E043-2DBE-061EEB2232B4">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>80398445-9F17-0ACF-279E-585BE3A0C2D4</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BDEB2D79-2DC5-10AD-C4E5-422640D83C28" referredColumn="6EB8DA72-6C19-94A5-6B3B-A3469956905E"/>
+</associations>
+</Column>
+<Column name="averageTotalPrice" id="93C50765-70B0-4BD0-C2D6-BFE496B180DB">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>E8DB0E6F-FF5B-DAE0-24E1-F0A1143AADCA</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Time_id" id="B7DDC3AC-B208-53AE-74A4-8B644760CEAC">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>BD6287B3-FD41-A9C5-93B5-396660390AB2</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="FDF4025B-36AA-2458-7912-271E45BA48DD" referredColumn="D7CABBF2-3291-66B1-985B-0D6C72B9DECC"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D42FCF5D-1467-A0BB-201A-17E84ECDE85E" name="CountryStatistics_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>473AC86C-1295-2312-F923-3DD2F62691BF</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="317135EC-9F2D-72F1-0B51-297C88DC3E24"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C6A2E63D-99CB-D9AB-9F11-97DA5CD7FFDE" name="CountryStatistics__IDX">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>C542D374-74EA-AA63-1040-49DFDF61D2E9</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="5A6A5B8D-B076-E043-2DBE-061EEB2232B4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C8E16892-D0AE-A7CB-AED2-BE84226799B2" name="CountryStatistics_Country_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>C542D374-74EA-AA63-1040-49DFDF61D2E9</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5A6A5B8D-B076-E043-2DBE-061EEB2232B4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CE0CBB7D-CA14-F607-8F3B-A95B17C1994E" name="CountryStatistics_Time_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>D26B526F-A1E6-A4C6-E2FA-81D875CB1082</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B7DDC3AC-B208-53AE-74A4-8B644760CEAC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

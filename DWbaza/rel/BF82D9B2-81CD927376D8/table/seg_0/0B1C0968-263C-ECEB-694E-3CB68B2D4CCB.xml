@@ -1,0 +1,124 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0B1C0968-263C-ECEB-694E-3CB68B2D4CCB" name="DeveloperStatistics">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>E3F13B4E-9FE8-98E5-BE40-3DB76604370B</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="22DBEE5C-7931-22D5-E207-51E12ED9E48C">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>DF791504-207C-5003-0F5C-A4C1E8521FAA</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalRevenue" id="A6B1C1E9-0861-326D-DB57-D7C30D912B4A">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>A74BBD59-16C1-FF9D-1F95-7868C76536B1</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>20</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,20,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="totalGamesSold" id="2CCBAB3B-4869-7508-1194-D0E600E2D880">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>D2568756-AA98-3157-825F-8EE7E435F988</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Developer_id" id="0025D6C7-9FEB-B9BB-1505-057F103F4691">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>A6FEC10B-AABC-30B5-1A85-32E93F938FCB</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="557BC4B8-8A64-7F11-35EB-340F1F465B49" referredColumn="AFE7A1F0-2CF3-4B78-5549-C5BF9744F8D6"/>
+</associations>
+</Column>
+<Column name="averageRevenue" id="B3E552C7-2DC3-5999-4B67-872D49BD6A02">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>53CEEE8B-2FAE-A7B7-2192-8F48DBEFA486</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>20</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,20,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="averageScore" id="96D38527-7A20-AA62-52ED-9946EA7DF7EA">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>D5E4DBF7-151F-548F-1FEE-D1B09AEE841F</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="BF50C221-3458-CC3B-96A1-54C5A0D1EB1C" name="DeveloperStatistics_PK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>656C996A-31A6-33EB-CE26-549CAF1FA11F</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="22DBEE5C-7931-22D5-E207-51E12ED9E48C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BEA3C425-545F-1C5C-04E2-E25BEA3A81F1" name="DeveloperStatistics__IDX">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>6ACC8001-55EA-A37B-016F-96E7A65E9ADF</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="0025D6C7-9FEB-B9BB-1505-057F103F4691"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FF5DE5ED-AEFE-52AA-13A7-33D5D119859E" name="DeveloperStatistics_Developer_FK">
+<createdBy>Luka</createdBy>
+<createdTime>2023-12-30 21:18:40 UTC</createdTime>
+<generatorID>6ACC8001-55EA-A37B-016F-96E7A65E9ADF</generatorID>
+<ownerDesignName>DWbaza</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0025D6C7-9FEB-B9BB-1505-057F103F4691"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

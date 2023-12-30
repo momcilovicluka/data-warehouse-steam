@@ -28,32 +28,6 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="gameId" id="BFC5FD9A-58EB-FDAD-3375-3039E6BE3D6D">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 14:36:21 UTC</createdTime>
-<ownerDesignName>DWbaza</ownerDesignName>
-<importedID>71CED3A7-4568-8E44-3014-5D1D553D21E5</importedID>
-<engineerTo>
-<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="purchaseId" id="791A6766-3373-FC6B-1140-C8E97AE6B369">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 14:36:21 UTC</createdTime>
-<ownerDesignName>DWbaza</ownerDesignName>
-<importedID>2A7CEBBA-2232-73A1-CEBE-56B96BBA0E82</importedID>
-<engineerTo>
-<item key="BF82D9B2-D692-B279-D908-81CD927376D8" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="id1" id="2D831E14-8A65-0E11-F11F-953B3E036E64">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 14:36:21 UTC</createdTime>

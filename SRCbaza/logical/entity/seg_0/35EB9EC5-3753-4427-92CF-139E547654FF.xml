@@ -27,19 +27,6 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="isBundle" id="2991DB95-08CD-A834-0154-96A0374C8FF1">
-<createdBy>Luka</createdBy>
-<createdTime>2023-11-22 14:08:47 UTC</createdTime>
-<ownerDesignName>SRCbaza</ownerDesignName>
-<engineerTo>
-<item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT006</logicalDatatype>
-<dataTypeSize>1 BYTE</dataTypeSize>
-<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="dateOfPurchase" id="D9D334F0-13A5-1C3C-2576-AB84C031DEC6">
 <createdBy>Luka</createdBy>
 <createdTime>2023-11-22 14:09:19 UTC</createdTime>
@@ -59,6 +46,7 @@
 <engineerTo>
 <item key="F27BD92A-E166-9578-FC49-0E9EC050CAF1" value="true"/>
 </engineerTo>
+<nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT026</logicalDatatype>
