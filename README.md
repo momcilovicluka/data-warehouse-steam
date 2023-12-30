@@ -5,7 +5,7 @@
 
 Repository for the Data Warehouse project for SEDS
 
-📄 The data source for the database is obtained from [Sources](Sources.txt)
+📄 The data source for the database is obtained from [Sources](Source.txt)
 
 📊 Analysis/Statistics of the database: [Reports📋](/Reports)
 
