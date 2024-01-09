@@ -11,6 +11,8 @@ Repository for the Data Warehouse project for SEDS
 
 🖨️ Import scripts: [Imports](/SQLImports)
 
+📜 Seminar: [Seminar](Seminarski.pdf)
+
 ## Project Structure 📐
 - **DWbaza**: Data Warehouse model.
 - **SQLImports**: Contains SQL scripts for importing data into the database.
